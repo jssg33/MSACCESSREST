@@ -2,7 +2,7 @@
 Building a REST API with MSSACCESS, Dapper, and EntityFrameWork.jet
 
 We have a restricted lab which has VSCODE installed, and VisualStudio with no Databases.
-VS2022 installs about 35GB of Stuff which are mostly noise, but it is required for some things.
+VS2022 installs about 35GB of Stuff which are mostly noise, but it is required for some things. This demonstration requires MSACCESS TO BE INSTALLED as both VSCODE, and VisualStudio include the DBMS Drivers for Both MSSQL, and MSACCESS.
 
 Process as Follows:
 1) Create a New Project in VSCODE!!!! for RESTAPIS from command line which creates a weather API. Dont Touch that for now as its helpful.
