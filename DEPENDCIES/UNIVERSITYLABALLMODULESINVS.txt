@@ -1,0 +1,1213 @@
+
+PS H:\REST\WEBAPI>
+Name                           Version          Source                           ProviderName
+----                           -------          ------                           ------------
+Arduino IDE 2.3.3              2.3.3                                             Programs
+7-Zip 24.07 (x64)              24.07                                             Programs
+Advanced Design System 2024... 6.0.0.0                                           Programs
+Microsoft Visual Basic for ... 7.1.0.0                                           msi
+Anaconda3 2024.10-1 (Python... 2024.10-1                                         Programs
+Android Studio                 2024.2                                            Programs
+ArcGIS Pro                     3.4.55405                                         Programs
+ArcGIS Pro                     3.4.55405        C:\Program Files\ArcGIS\Pro\     msi
+Autodesk Identity Manager      1.11.9.11                                         Programs
+Microsoft Access database e... 14.0.7015.1000                                    msi
+Office 16 Click-to-Run Exte... 16.0.14332.20828                                  msi
+Office 16 Click-to-Run Lice... 16.0.14332.20828                                  msi
+Bentley DGN Thumbnail Provider 24.0.1.4                                          msi
+NI LabWindows/CVI 20.0         20.3.49152                                        msi
+NI-VISA 24.5.0 Provider 64-... 24.50.49310                                       msi
+Cisco Packet Tracer 8.2.2 6... 8.2.2.400                                         Programs
+NI AFW UI Assemblies           24.10.49440                                       msi
+COMSOL Multiphysics 6.2        6.2.0.415                                         Programs
+Dassault Systemes Software ...                                                   Programs
+Aspen Knowledge In-Context ... 38.0.0                                            msi
+Dassault Systemes SIMULIA I... 6.426.0.0                                         Programs
+Visual C++ Library CRT Desk... 14.42.34433                                       msi
+Dassault Systemes SIMULIA E... 6.426.0.0                                         Programs
+NI-DAQmx FSL Installer for ... 24.50.49588                                       msi
+EEsof License Tools            2024.2.0.1261                                     Programs
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+Fibersim 17.1.1                17.1.1.0                                          Programs
+aspenONE Common Components ... 21.0.0                                            msi
+Genesys2023                    2023.0.0.0                                        Programs
+NI-488.2 Utilities 24.5        24.50.49290                                       msi
+NI LabVIEW 2024 RT Module (... 24.10.49360                                       msi
+GIMP 2.10.38                   2.10.38                                           Programs
+NI-Sync Ethernet Driver 23.8.0 23.80.49260                                       msi
+Intel® Hardware Accelerated... 7.6.5                                             Programs
+NI EulaDepot                   24.50.49246                                       msi
+Keysight Licensing Daemon      2023.03.23                                        Programs
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+Microsoft WebView2 Runtime     24.50.49170                                       msi
+KiCad 8.0                      8.0.4                                             Programs
+Microsoft Visual Studio Set... 3.12.2140.44225                                   msi
+NI-VISA LabWindows/CVI Exam... 24.50.49310                                       msi
+Maple 2024                     2024.2.1872373.0                                  Programs
+NI-RIO FPGA Interface Drive... 24.0.49290                                        msi
+Maple Toolbox 2024             2024.2.1872373.0                                  Programs
+MASTAN2v5_2                    5.2                                               Programs
+NI LabVIEW 2024 Q1 (64-bit)... 24.11.49154                                       msi
+MATLAB R2024b                  24.2                                              Programs
+NI OPC Support                 24.10.49350                                       msi
+MATLAB Runtime R2024a          24.1                                              Programs
+DAQExpress_Simplified_Chine... 8.10.49153                                        msi
+Microsoft Visual Studio 201... 10.0.50903                                        Programs
+Microsoft Visual Studio 201... 10.0.50908                                        msi
+NI LabWindows/CVI 2020         20.3.49152                                        msi
+Mozilla Firefox (x64 en-US)    133.0.3                                           Programs
+Microsoft .NET AppHost Pack... 48.144.23141                                      msi
+Windows Mobile Extension SD... 10.1.22621.3233                                   msi
+Mozilla Maintenance Service    128.0.3                                           Programs
+NI Trace Engine                20.0.49152                                        msi
+NI-DAQmx NI Device Monitor ... 24.50.49569                                       msi
+Microsoft .NET Host FX Reso... 64.0.4211                                         msi
+Universal CRT Extension SDK    10.1.22621.3233                                   msi
+ClickOnce Bootstrapper Pack... 4.8.9256                                          msi
+Application Verifier x64 Ex... 10.1.22621.3233                                   msi
+vs_BlendMsi                    17.12.35410                                       msi
+GeoStudio 2024.2.1             24.2.1.28                                         msi
+GeoStudio 2024.2.1             24.2.1.28                                         Programs
+NI SSL Support (64-bit)        24.10.49349                                       msi
+NI-DAQmx MIO Device Drivers... 24.50.49588                                       msi
+NI MSDT Redistributables 8.1   8.16.49152                                        msi
+NI Measurement Studio Recip... 8.0.101                                           msi
+NI Package Manager             24.8.0                                            Programs
+NI Package Manager             24.80.49281                                       msi
+NI-ORB 24.5                    24.50.49319                                       msi
+NI-VISA Driver Development ... 24.0.49402                                        msi
+NI LabVIEW 2024Q1 Real-Time... 24.10.49363                                       msi
+Autodesk Genuine Service       7.5.0.226        C:\Program Files\Autodesk\Gen... msi
+NI LabVIEW 2024 Q1 FPGA Doc... 24.11.49154                                       msi
+NI LabVIEW 2024Q1 Real-Time... 24.10.49363                                       msi
+NI I/O Trace 64-bit Support... 24.50.49276                                       msi
+Windows Software Developmen... 8.100.26936                                       msi
+Autodesk Batch Save Utility... 3.6.145.0                                         msi
+Notepad++ (64-bit x64)         8.7.4                                             Programs
+Octave 9.2.0                   9.2.0                                             Programs
+NI LabVIEW Unit Test Framew... 24.10.49444                                       msi
+Microsoft Project Professio... 16.0.14332.20828                                  Programs
+NI TDM Streaming 24.3 (64-bit) 24.30.49349                                       msi
+Microsoft Office LTSC Profe... 16.0.14332.20828                                  Programs
+NI-TSU 23.8 for 64 Bit Windows 23.80.49272                                       msi
+NI-RoCo Error Files 24.5.0     24.50.49325                                       msi
+PTC Creo Parametric Version... 10.0.3.0                                          Programs
+NI-TSU 23.8                    23.80.49272                                       msi
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+R for Windows 4.4.2            4.4.2                                             Programs
+NI-VISA Errors 24.5.0          24.50.49310                                       msi
+Simcenter STAR-CCM+ 2402.00... 19.02.012                                         Programs
+Microsoft.Maui.Controls.Cor... 9.0.0.0                                           msi
+NI LabVIEW 2024 Q3 (64-bit)... 24.30.49385                                       msi
+Tecnomatix OLP Abb-Rapid-Vo... VERSION_5_9_4                                     Programs
+NI-VISA USB Passport (64-Bi... 24.50.49310                                       msi
+GeoStudio Shell Extensions     24.2.1.28                                         msi
+Tecnomatix OLP Abb-Rapid ve... VERSION_5_18                                      Programs
+Windows App Certification K... 10.1.22621.3233                                   msi
+Math Kernel Libraries          20.0.49152                                        msi
+Tecnomatix OLP Cloos-Carola... VERSION_2_34                                      Programs
+NI IVI Class Drivers Runtim... 22.50.49166                                       msi
+Microsoft Windows Desktop R... 64.44.23253                                       msi
+Microsoft Windows Desktop R... 8.0.11.34221                                      Programs
+Tecnomatix OLP Comau-Pdl-Vo... VERSION_2_14_7                                    Programs
+Tecnomatix OLP Comau-Pdl ve... VERSION_5_5_8                                     Programs
+NI LabVIEW Runtime 2024 Q3 ... 24.32.49152                                       msi
+NI LabWindows/CVI Shared Ru... 20.3.49152                                        msi
+Tecnomatix OLP Denso-PacScr... VERSION_2_37                                      Programs
+NI LabVIEW 2024 Q3 (64-bit)... 24.32.49152                                       msi
+vs_communityx64msi             17.12.35410                                       msi
+Tecnomatix OLP Duerr-Ecotal... VERSION_2_80                                      Programs
+NI-DAQmx MX Expert Framewor... 24.50.49588                                       msi
+Tecnomatix OLP Epson-Spel v... VERSION_2_27                                      Programs
+NI-DAQmx and NI-DAQ Common ... 24.50.49544                                       msi
+NI-DIM 24.5.0                  24.50.49330                                       msi
+Tecnomatix OLP Fanuc-F100iA... VERSION_2_37                                      Programs
+Windows SDK for Windows Sto... 10.1.22621.3233                                   msi
+Microsoft.iOS.Sdk.net8.0_18... 18.0.8316.0                                       msi
+Tecnomatix OLP Fanuc-Rj-Jap... VERSION_2_161_1                                   Programs
+Microsoft.Maui.Essentials (... 9.0.0.0                                           msi
+Tecnomatix OLP Fanuc-Rj ver... VERSION_3_88_1                                    Programs
+Microsoft.NET.Sdk.Maui.Mani... 8.0.3                                             msi
+NI Vision Common Support fo... 24.0.49292                                        msi
+Tecnomatix OLP Igm-Ins vers... VERSION_1_54                                      Programs
+NI LabVIEW 2024 Q3 Run-Time... 24.30.49352                                       msi
+Tecnomatix OLP Kawasaki-As ... VERSION_5_26                                      Programs
+NI-MXLC Core 64-bit 24.5.0     24.50.49330                                       msi
+NI System Monitor 24.5         24.50.49313                                       msi
+Tecnomatix OLP Kawasaki-Cke... VERSION_1_18                                      Programs
+NI Help Launcher               24.50.49227                                       msi
+Microsoft .NET Host FX Reso... 64.44.23191                                       msi
+Tecnomatix OLP Kuka-Krc-Bmw... VERSION_4_21                                      Programs
+NI Controller Driver Suppor... 24.50.49308                                       msi
+NI LabWindows/CVI 2020 SxS ... 20.0.49152                                        msi
+Tecnomatix OLP Kuka-Krc-Vol... VERSION_2_29_8                                    Programs
+NI IVI Compliance Package R... 22.50.49166                                       msi
+Tecnomatix OLP Kuka-Krc ver... VERSION_6_4                                       Programs
+NI LabVIEW Runtime 2019 SP1 f4 19.14.49152                                       msi
+NI-RIO 24.0                    24.0.49291                                        msi
+Tecnomatix OLP Mitsubishi-M... VERSION_0_29                                      Programs
+Microsoft Visual Basic for ... 7.1.11.35                                         msi
+Microsoft Visual C++ 2008 R... 9.0.30729.4148                                    msi
+Tecnomatix OLP Nachi-Slim v... VERSION_5_5_5                                     Programs
+NI LabWindows/CVI Shared Ru... 20.0.49152                                        msi
+Tecnomatix OLP NC-Code-Bmw ... VERSION_1_18_7                                    Programs
+Microsoft ASP.NET Core 8.0.... 8.0.11.24521                                      msi
+NI Assistant Framework LabV... 24.10.49440                                       msi
+Tecnomatix OLP NC-Code-Embr... VERSION_1_15_7                                    Programs
+NI Vision Support for LabVIEW  24.0.49294                                        msi
+Brackets                       2.2.1            C:\Program Files (x86)\Brackets\ msi
+Brackets                       2.2.1                                             Programs
+Tecnomatix OLP NC-Code-Rive... VERSION_1_13_7                                    Programs
+Microsoft.Maui.Controls (x64)  9.0.0.0                                           msi
+Tecnomatix OLP NC-Code vers... VERSION_2_11                                      Programs
+NI Vision Example Finder Su... 24.0.49288                                        msi
+NI LabVIEW 2024 Modbus API ... 24.10.49380                                       msi
+Tecnomatix OLP Panasonic-Cs... VERSION_2_31                                      Programs
+NI LabWindows/CVI SxS Runti... 20.1.49155                                        msi
+Tecnomatix OLP Reis-Robstar... VERSION_2_45                                      Programs
+NI-VISA 64-bit Headers 24.5.0  24.50.49310                                       msi
+Microsoft Visual C++ 2022 X... 14.42.34433                                       msi
+Tecnomatix OLP Staubli-Val ... VERSION_4_14                                      Programs
+NI LabVIEW Runtime Interop ... 21.12.49154                                       msi
+NI Vision Assistant LabVIEW... 24.0.49292                                        msi
+Tecnomatix OLP Trallfa-Robt... VERSION_1_60                                      Programs
+Microsoft ASP.NET Core 3.1.... 3.1.32.22566                                      msi
+Tecnomatix OLP Universal-UR... VERSION_6_35                                      Programs
+NI Package Manager Deployme... 24.80.49281                                       msi
+Dassault Systemes Software ... 10.1.1                                            msi
+Tecnomatix OLP Yaskawa-Info... VERSION_6_43                                      Programs
+NI-488.2 MAX Support 24.5      24.50.49290                                       msi
+NI-DAQmx French Language Pa... 20.10.49152                                       msi
+Microsoft.NET.Runtime.MonoA... 9.0.0.0                                           msi
+DAQExpress_German_Support      8.10.49153                                        msi
+Microsoft Visual Basic for ... 7.1.0.0                                           msi
+NI-ORB 24.5 for 64-bit Windows 24.50.49319                                       msi
+NI MI Session Manager          24.50.49303                                       msi
+Microsoft Windows Desktop R... 48.144.23186                                      msi
+NI-VISA Serial Passport 24.5.0 24.50.49310                                       msi
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+NI Vision Assistant C Suppo... 24.0.49292                                        msi
+Microsoft .NET Framework 4.... 4.8.3761                                          msi
+NI-DAQmx Support 24.5 for .... 24.50.49569                                       msi
+NI Curl 2024 SP1               24.50.49189                                       msi
+NI Customer Experience Impr... 24.50.49244                                       msi
+Microsoft .NET CoreRuntime ... 1.0.0.0                                           msi
+NI-DAQmx ADE Support 24.5.0    24.50.49544                                       msi
+Microsoft.NET.Runtime.MonoT... 9.0.0.0                                           msi
+NI Xerces Software             3.25.49161                                        msi
+Microsoft Windows Desktop R... 72.0.23378                                        msi
+NI Help Assistant 2.2.0        2.20.49152                                        msi
+novaPDF 9 SDK COM (x86)        9.3.240          C:\Program Files (x86)\Softla... msi
+Microsoft Visual C++ 2010  ... 10.0.40219                                        msi
+PowerWorld Simulator Educat... 23.24.209                                         msi
+NI Web Application Server 2... 24.30.49353                                       msi
+NI IO Server Provider (64-bit) 24.10.49356                                       msi
+Microsoft Visual C++ 2005 R... 8.0.61000                                         msi
+NI-DAQmx/LabVIEW shared doc... 24.50.49544                                       msi
+Windows App Certification K... 10.1.22621.3233                                   msi
+NI License Manager             24.0.49245                                        msi
+NI-RIO USBLAN 19.0 (64-bit)    19.0.49153                                        msi
+Microsoft .NET Core Runtime... 24.192.31915                                      msi
+Microsoft .NET Core Runtime... 3.1.32.31915                                      Programs
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+NI-Sync Atomic API 24.3.0      24.30.49306                                       msi
+NI PXI Platform Services CV... 24.50.49313                                       msi
+NI-488.2 Runtime 24.5 (64-bit) 24.50.49290                                       msi
+aspenONE Common Components ... 21.0.0                                            msi
+NI-DAQmx/LabVIEW shared doc... 24.50.49544                                       msi
+Microsoft .NET AppHost Pack... 72.0.23369                                        msi
+NI-Sync Documentation 24.3.0   24.30.49306                                       msi
+NI-Sync 64-bit Configuratio... 23.80.49272                                       msi
+NI LabVIEW 2024 VI Analyzer... 24.10.49440                                       msi
+Microsoft Visual C++ 2010  ... 10.0.40219                                        msi
+Microsoft.iOS.Windows.Sdk.n... 17.0.8523.0                                       msi
+Microsoft .NET Host - 9.0.0... 72.0.23369                                        msi
+NI LabVIEW Broker (64 bit)     22.30.49152                                       msi
+NI Registration Wizard         23.50.49221                                       msi
+DAQExpress French Context H... 8.10.49153                                        msi
+NI mDNS Responder 24.5.0       24.50.49266                                       msi
+NI Web Application Server 2... 24.30.49353                                       msi
+ProjectWise Drive Dependencies 22.0.8465.0                                       msi
+NI-RIO I/O Control for LabV... 24.0.49291                                        msi
+Math Kernel Libraries (64-bit) 20.0.49152                                        msi
+NI-VISA 24.5.0 MAX Provider    24.50.49310                                       msi
+NI LabVIEW 2022 Real-Time N... 22.30.49258                                       msi
+NI-DAQmx Support for LabVIEW   24.50.49578                                       msi
+NI RTSI UI Provider 24.5.0     24.50.49560                                       msi
+NI-VISA Interactive Control... 24.50.49318                                       msi
+vcpp_crt.redist.clickonce      14.42.34433                                       msi
+Powerplatform Python Distri... 2.1.4.8          C:\ProgramData\Bentley\PowerP... msi
+NI-VISA x64 support 24.5.0     24.50.49310                                       msi
+Microsoft Visual C++ 2022 X... 14.42.34433                                       msi
+NI-RIO USBLAN 19.0             19.0.49153                                        msi
+NI Variable Engine 2024        24.10.49354                                       msi
+Microsoft Visual C++ 2013 x... 12.0.21005                                        msi
+NI USI 64-bit                  18.55.49152                                       msi
+Windows SDK for Windows Sto... 10.1.22621.3233                                   msi
+Visualization                  24.0.1.56                                         msi
+Microsoft .NET Targeting Pa... 48.144.23141                                      msi
+Microsoft Visual C++ 2013 x... 12.0.21005                                        msi
+NI System State Publisher      24.30.49382                                       msi
+Microsoft .NET Runtime - 6.... 48.144.23141                                      msi
+Microsoft .NET Runtime - 6.... 6.0.36.34214                                      Programs
+NI LabVIEW Broker              22.30.49152                                       msi
+NI LabVIEW 2024 Q3 Patch 2 ... 24.32.49152                                       msi
+Microsoft Windows Desktop T... 64.44.23253                                       msi
+NI Vision Development Modul... 24.0.49294                                        msi
+NI PXI Platform Framework 2... 24.50.49313                                       msi
+NI Switch Executive Support... 23.80.49182                                       msi
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+Microsoft.NET.Workload.Emsc... 72.44.23362                                       msi
+NI LabWindows/CVI Shared Ru... 20.3.49152                                        msi
+VISA.NET Shared Components ... 7.2.205                                           msi
+VISA.NET Shared Components ... 7.2.0205                                          Programs
+NI Vision Support for C 24.0   24.0.49292                                        msi
+NI-Sync C Language Support ... 24.30.49306                                       msi
+Aspen Flare System Analyzer... 39.0.0                                            msi
+NI LabWindows/CVI SxS Runti... 20.0.49152                                        msi
+icecap_collectionresourcesx64  17.12.35410                                       msi
+NI-QPXI 24.5.0                 24.50.49310                                       msi
+NI LabWindows/CVI 2020 Acti... 20.0.49152                                        msi
+NI-RIO I/O Control for LabV... 24.0.49291                                        msi
+NI-VISA Examples 24.5.0        24.50.49310                                       msi
+NI Software Provider for MA... 24.30.49261                                       msi
+NI Python Interface (64-bit)   24.30.49348                                       msi
+NI OpenSSL3                    24.50.49169                                       msi
+NI ActiveX Container (64-bit)  17.12.49152                                       msi
+NI-Serial Runtime 24.5 64-bit  24.50.49252                                       msi
+NI LabVIEW 2024 (64-bit) De... 24.30.49383                                       msi
+Microsoft ASP.NET Core 6.0.... 6.0.36.24516                                      msi
+Microsoft.MacCatalyst.Sdk.n... 18.0.8316.0                                       msi
+NI LabVIEW Runtime 2023 Q3 ... 23.30.49272                                       msi
+NI Example Finder 24.3         24.30.49385                                       msi
+DEEPSOIL 7.1                   7.1.1                                             msi
+NI-Sync Wrapper 64-bit 24.3.0  24.30.49303                                       msi
+NI Assistant Framework LabV... 24.10.49440                                       msi
+PTB Essentials                 1.9.2.0          C:\Program Files (x86)\Sandbo... msi
+Microsoft .NET Core Host FX... 24.192.31915                                      msi
+NI Logos64 XT Support          24.10.49350                                       msi
+Microsoft Visio LTSC Profes... 16.0.14332.20828                                  Programs
+NI-QPXI 24.5.0 for 64-bit W... 24.50.49310                                       msi
+NI MetaSuite Installer         21.0.49152                                        msi
+NI LabVIEW MAX XML             19.0.49152                                        msi
+NI DataFinder Connectivity ... 24.10.49442                                       msi
+NI Customer Experience Impr... 24.50.49244                                       msi
+vs_devenvsharedmsi             17.12.35410                                       msi
+IntelliTraceProfilerProxy      15.0.21225.1                                      msi
+WinRT Intellisense Desktop ... 10.1.22621.3233                                   msi
+Microsoft ASP.NET Core 8.0.... 8.0.11.24521                                      msi
+Windows Software Developmen... 8.100.26936                                       msi
+Microsoft ASP.NET Core 9.0.... 9.0.0.24529                                       msi
+WPT Redistributables           10.1.22621.3233                                   msi
+Microsoft.Android.Sdk.Windo... 35.0.7.0                                          msi
+Microsoft .NET Core Runtime... 24.192.31915                                      msi
+Microsoft .NET Core Runtime... 3.1.32.31915                                      Programs
+NI LabVIEW Runtime 2024 Q3     24.30.49386                                       msi
+NI MSI Properties              24.50.49246                                       msi
+NI LabWindows/CVI TestStand... 20.1.49152                                        msi
+Balsamiq Wireframes            4.8.1                                             Programs
+NI VC2010RTE x86               10.11.49152                                       msi
+NI Microsoft Visual C++ 201... 24.50.49169                                       msi
+NI Measurement Studio Compo... 8.75.49152                                        msi
+novaPDF 9 Printer Driver       9.3.240          C:\Program Files\Softland\nov... msi
+NI LabVIEW 2024 Modbus API ... 24.10.49380                                       msi
+Microsoft.iOS.Windows.Sdk.n... 18.1.9163.0                                       msi
+Microsoft ASP.NET Core 9.0.... 9.0.0.24529                                       msi
+NI-DAQmx Timing for 64 Bit ... 24.50.49588                                       msi
+Microsoft .NET Targeting Pa... 72.0.23369                                        msi
+NI LabWindows/CVI 2020 Netw... 20.0.49152                                        msi
+NI LabWindows/CVI SxS Runti... 20.0.49152                                        msi
+NI Standard Logos Requests ... 23.80.49178                                       msi
+NI LabVIEW 2024 Q3 (64-bit)... 24.32.49152                                       msi
+NI Switch Executive Support... 23.80.49182                                       msi
+IVI Shared Components Packa... 3.0.2828.0                                        msi
+BigFix Client                  11.0.1.104       C:\Program Files (x86)\BigFix... msi
+Autodesk AutoCAD 2025.0.1 U... 25.0.72.0                                         Programs
+NI LabVIEW Runtime 2022 Q3 ... 22.30.49383                                       msi
+Universal CRT Tools x64        10.1.22621.3233                                   msi
+Windows SDK Desktop Libs arm   10.1.22621.3233                                   msi
+NI System Logging Utilities    20.0.49152                                        msi
+NI-Sync 24.3.0 for LabWindo... 24.30.49306                                       msi
+NI-Xlator 24.5.0f103 for 64... 24.50.49255                                       msi
+NI-VISA SysAPI x64 support ... 24.50.49310                                       msi
+Microsoft Windows Desktop R... 48.124.15242                                      msi
+Microsoft Windows Desktop R... 6.0.31.33720                                      Programs
+NI RTSI PAL Device Library ... 24.50.49564                                       msi
+NI LabVIEW 2023 Real-Time N... 23.10.49265                                       msi
+NI IVI Compliance Package C... 22.50.49160                                       msi
+WinRT Intellisense Desktop ... 10.1.22621.3233                                   msi
+NI LabWindows/CVI TestStand... 20.1.49152                                        msi
+VS Script Debugging Common     17.0.157.0                                        msi
+NI-PAL 24.5 Error Files        24.50.49305                                       msi
+NI PXI Platform Services Ru... 24.50.49313                                       msi
+Autodesk Vehicle Tracking 2... 25.0.0.2775                                       msi
+NI-Sync 64-bit 23.8.0          23.80.49272                                       msi
+NI LabWindows/CVI 2020 Anal... 20.0.49152                                        msi
+NI-MRU 24.5.0                  24.50.49330                                       msi
+NI VIPM Helper 2024            24.30.49201                                       msi
+Microsoft .NET AppHost Pack... 48.144.23141                                      msi
+NI-Sync 23.8.0                 23.80.49272                                       msi
+NI OpenSSL3 32-bit             24.50.49169                                       msi
+Windows SDK Desktop Libs x86   10.1.22621.3233                                   msi
+NI MSDT Redistributables - ... 8.16.49152                                        msi
+Microsoft.NET.Workload.Mono... 72.0.23369                                        msi
+Aspen Basic Engineering V12... 380.0.1                                           msi
+Bentley DGN Preview Handler    24.0.1.13        C:\Program Files\Bentley\DgnP... msi
+NI-RoCo 24.5 (32-bit)          24.50.49327                                       msi
+Microsoft ASP.NET Core 6.0.... 6.0.36.24516                                      msi
+NI Software License Complia... 24.50.49244                                       msi
+NI MXS 64 24.3.0               24.30.49261                                       msi
+Microsoft.NET.Workload.Mono... 72.0.23369                                        msi
+Windows Mobile Extension SDK   10.1.22621.3233                                   msi
+NI LabVIEW Runtime Interop ... 19.14.49152                                       msi
+NI Vision Support for CVI 24.0 24.0.49292                                        msi
+Windows SDK Redistributables   10.1.22621.3233                                   msi
+CONNECTION Client              24.1.1.12        C:\Program Files\Common Files... msi
+CONNECTION Client              24.1.1.12                                         Programs
+NI Assistant Framework 64-bit  24.10.49440                                       msi
+NI JSON Map Files              24.30.49347                                       msi
+NI-488.2 Runtime 24.5          24.50.49290                                       msi
+NI Network Discovery 24.5      24.50.49275                                       msi
+Autodesk Civil 3D 2025 - En... 13.7.154.0                                        Programs
+Autodesk Civil 3D 2025 - En... 13.7.145.0       C:\Program Files\Autodesk\Aut... msi
+Microsoft .NET Runtime - 8.... 64.0.4211                                         msi
+NI Physical Interface Exten... 24.50.49560                                       msi
+vs_FileTracker_Singleton       17.12.35410                                       msi
+NI LabVIEW 2024 Q1 FPGA Mod... 24.11.49154                                       msi
+Microsoft .NET Targeting Pa... 64.44.23191                                       msi
+NI Service Locator 2024 Q3     24.30.49347                                       msi
+NI LabWindows/CVI 2020 f1 T... 20.1.49152                                        msi
+Microsoft .NET Framework 4.... 4.7.3062                                          msi
+Microsoft MPI (10.1.12498.18)  10.1.12498.18    C:\Program Files\Microsoft MPI\  msi
+NI Assistant Framework 64-b... 24.10.49440                                       msi
+NI-Serial Configuration 24.5   24.50.49252                                       msi
+NI-VISA .NET Development Su... 24.50.49310                                       msi
+NI System Configuration .NE... 24.50.49275                                       msi
+NI Ethernet Device Enumerat... 24.50.49319                                       msi
+Windows Software Developmen... 8.100.26936                                       msi
+CONNECT Advisor                10.1.0.283       C:\Program Files\Common Files... msi
+CONNECT Advisor                10.1.0.283                                        Programs
+NI LabVIEW 2024 Q1 Unit Tes... 24.10.49440                                       msi
+Windows Desktop Extension S... 10.1.22621.3233                                   msi
+Microsoft .NET Core Host - ... 24.192.31915                                      msi
+DAQExpress Application         8.10.49153                                        msi
+NI LabVIEW 2024 Q1 Real-Tim... 24.0.49283                                        msi
+NI-DAQmx German Language Pa... 20.10.49152                                       msi
+Windows SDK Desktop Libs arm64 10.1.22621.3233                                   msi
+NI Security Update (KB 67L8... 2.10.49152                                        msi
+NI Assistant Framework 64-b... 24.10.49440                                       msi
+NI Assistant Framework         24.10.49440                                       msi
+DAQExpress Store Product 5.1.0 20.10.49152                                       msi
+Windows SDK for Windows Sto... 10.1.22621.3233                                   msi
+NI RTSI Cable Core Installe... 24.50.49560                                       msi
+NI SSL LabVIEW RTE 2021 Sup... 21.0.49152                                        msi
+NI LabVIEW 2024 Q1 FPGA Ana... 24.11.49154                                       msi
+NI-DAQmx Lang Runtime 24.5 ... 24.50.49564                                       msi
+Microsoft Visual C++ 2013 x... 12.0.40664                                        msi
+NI SSL LabVIEW RTE 2024 Q3 ... 24.30.49348                                       msi
+Microsoft Windows Desktop R... 72.0.23378                                        msi
+NI LabWindows/CVI 2020 Anal... 20.0.49152                                        msi
+NI LabVIEW 2024 (64-bit) Se... 24.30.49381                                       msi
+Microsoft Power BI Desktop ... 2.138.1004.0                                      msi
+NI-APAL 24.5 64-Bit Error F... 24.50.49254                                       msi
+NI System Web Server 2024 Q3   24.30.49353                                       msi
+vs_clickoncesigntoolmsi        17.12.35410                                       msi
+Microsoft .NET 6.0 Template... 24.9.28115                                        msi
+NI TensorFlow 24.0 (64-bit)    24.0.49290                                        msi
+NI VISA Shared Components W... 7.20.49152                                        msi
+Microsoft SQL Server 2014 E... 12.2.5000.0                                       msi
+NI LabWindows/CVI Instrumen... 20.1.49152                                        msi
+Microsoft.NET.Sdk.Aspire.Ma... 64.136.23253                                      msi
+NI-VISA .NET Development Su... 24.50.49310                                       msi
+NI LabVIEW Runtime 2022 Q3 ... 22.31.49152                                       msi
+NI-PAL 24.5                    24.50.49320                                       msi
+Aspen OptiPlant 3D Layout V... 40.0.0                                            msi
+Windows SDK Modern Non-Vers... 10.1.22621.3233                                   msi
+Microsoft.NET.Sdk.tvOS.Mani... 18.1.9163                                         msi
+NI Network Discovery 24.5 f... 24.50.49275                                       msi
+Windows SDK Desktop Tools a... 10.1.22621.3233                                   msi
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+NI LabVIEW 2024 Q1 (64-bit)... 24.10.49366                                       msi
+NI LabVIEW Runtime Interop ... 22.31.49152                                       msi
+NI OPCEnum Shared 64-bit       5.63.49152                                        msi
+NI-Sync Configuration Suppo... 23.80.49272                                       msi
+Microsoft .NET CoreRuntime SDK 1.1.27004.0                                       msi
+Epic Games Launcher Prerequ... 1.0.0.0                                           msi
+NI-MXLC for DAQExpress 20.0.0  20.0.49152                                        msi
+Civil 3D 2025.0.1 Update       13.7.154.0                                        Programs
+Microsoft.NET.Workload.Emsc... 72.44.23362                                       msi
+Microsoft .NET Host FX Reso... 72.0.23369                                        msi
+NI-488.2 LabWindows/CVI Sup... 24.50.49280                                       msi
+NI LabVIEW 2024 Q1 (64-bit)... 24.11.49154                                       msi
+NI-VISA GPIB Passport 24.5.0   24.50.49310                                       msi
+NI Switch Executive Evaluat... 23.80.49182                                       msi
+LTspice                        24.0.12.0        C:\Program Files\ADI\LTspice\    msi
+vs_filehandler_amd64           17.12.35410                                       msi
+NI-Sync 64-bit Bus Driver 2... 23.80.49264                                       msi
+Bentley DGN Navigator Contr... 2.1.1008.0                                        msi
+NI Error Reporting 2020 (64... 20.10.49152                                       msi
+NI PXI Platform Services 24... 24.50.49313                                       msi
+Universal General MIDI DLS ... 10.1.22621.3233                                   msi
+Aspen Energy Analyzer V12.1... 39.0.0                                            msi
+NI LabVIEW 2024 License        24.30.49381                                       msi
+Kits Configuration Installer   10.1.22621.3233                                   msi
+NI LabVIEW 2024 Compare Uti... 24.30.49386                                       msi
+Java 8 Update 431 (64-bit)     8.0.4310.10      C:\Program Files\Java\jre1.8.... msi
+NI Measurement Studio Commo... 19.10.49152                                       msi
+NI IVI Engine                  142.5.0.49164                                     msi
+Windows IoT Extension SDK      10.1.22621.3233                                   msi
+NI MAX Support for 64 Bit W... 24.30.49263                                       msi
+vs_communitymsires             17.12.35410                                       msi
+NI Offline Help Viewer         24.50.49229                                       msi
+NI-DAQmx MX Expert Framewor... 24.50.49588                                       msi
+Microsoft.iOS.Sdk.net9.0_18... 18.0.9617.0                                       msi
+NI PXI Platform Services Su... 24.50.49308                                       msi
+NI Help Assistant 2.2.0 (64... 2.20.49152                                        msi
+NI Package Building Support... 24.30.49385                                       msi
+Windows SDK Desktop Headers... 10.1.22621.3233                                   msi
+Autodesk Interoperability E... 1.2.4.16         C:\Program Files\Common Files... msi
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+Microsoft.NET.Workload.Mono... 72.0.23369                                        msi
+Microsoft .NET Targeting Pa... 72.0.23369                                        msi
+OpenRoads_Designer_WorkSpace   23.0.1.11                                         msi
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+NI LabWindows/CVI 2020 .NET... 20.0.49152                                        msi
+Microsoft .NET Host FX Reso... 48.144.23141                                      msi
+Visual C++ Library CRT Appx... 14.42.34433                                       msi
+NI SSL LabVIEW 2023 Q3 RTE ... 23.30.49238                                       msi
+NI Logos 24.1 (64-bit)         24.10.49350                                       msi
+NI-VISA Documentation 24.5.0   24.50.49310                                       msi
+Microsoft .NET Framework 4.... 4.8.3928                                          msi
+Microsoft.Android.Runtime.3... 35.0.7.0                                          msi
+NI System API Web-Service 3... 23.30.49272                                       msi
+Microsoft .NET AppHost Pack... 64.44.23191                                       msi
+NI Circuit Design Suite 14.... 14.30.49153                                       msi
+NI ActiveX Container           17.12.49152                                       msi
+NI-PCI Bridge Driver 24.5 6... 24.50.49307                                       msi
+NI LabVIEW Runtime Interop ... 23.30.49272                                       msi
+MetroStation                   24.0.1.56                                         msi
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+NI LabWindows/CVI 2020 Anal... 20.0.49152                                        msi
+NI-DAQmx 653x Installer 14.5.0 14.50.49152                                       msi
+NI USI AOP5 DataPlugin 21.5.0  21.50.49290                                       msi
+HUGIN 9.5 (x64)                9.5.0.0                                           msi
+NI-PAL 24.5 64-Bit Error Files 24.50.49305                                       msi
+MicroStation 2024              24.0.1.56        C:\Program Files\Bentley\Micr... msi
+MicroStation 2024              24.0.1.56                                         Programs
+Aspen Multi-Case V12.1 (64bit) 39.0.0                                            msi
+Intel® Fortran Compiler run... 23.1.46319                                        msi
+NI Update Service 21.0         21.0.49243                                        msi
+NI DataPlugin Python 21.5 f... 21.50.49152                                       msi
+NI LabVIEW 2024 Q3 Web Serv... 24.30.49352                                       msi
+NI-VISA Remote Passport 24.5.0 24.50.49310                                       msi
+vs_minshellinteropsharedmsi    17.12.35410                                       msi
+Microsoft Windows Desktop T... 64.44.23253                                       msi
+.NET MAUI SDK (x64)            9.0.0.0                                           msi
+Microsoft Silverlight 5.1      5.19.49152                                        msi
+HEC-RAS 6.5                    6.5.0.3          C:\Program Files (x86)\HEC\HE... msi
+vs_githubprotocolhandlermsi    17.12.35410                                       msi
+NI CodeSignAPI 24.5.0          24.50.49247                                       msi
+Microsoft.NET.Sdk.iOS.Manif... 17.0.8478                                         msi
+Microsoft Windows Desktop T... 48.144.23186                                      msi
+NI LabVIEW Real-Time Module... 24.10.49363                                       msi
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+NI LabWindows/CVI 2020 .NET... 20.0.49152                                        msi
+NI-Sync Bus Driver 23.8.0      23.80.49264                                       msi
+Windows App Certification K... 10.1.22621.3233                                   msi
+PTC Diagnostic Tools           10.0.3.0         C:\Program Files\PTC\Diagnost... msi
+NI LabWindows/CVI Execution... 1.11.49152                                        msi
+NI-Cabled PCIe 24.5            24.50.49313                                       msi
+vs_Graphics_Singletonx86       17.12.35410                                       msi
+WPTx64 (OnecoreUAP)            10.1.22621.3233                                   msi
+NI LabVIEW DotNet Core Inte... 24.32.49152                                       msi
+vs_communitysharedmsi          17.12.35410                                       msi
+NI mDNS Responder 24.5 for ... 24.50.49266                                       msi
+NI-VISA Serial Passport (64... 24.50.49310                                       msi
+Microsoft .NET Toolset 9.0.... 36.8.49305                                        msi
+NI-Xlator 24.5.0f103           24.50.49255                                       msi
+NI LabVIEW 2024 Q1 FPGA Err... 24.10.49367                                       msi
+PTC Mathcad Prime 9.0.0.0      9.0.0.0          C:\Program Files\PTC\Mathcad ... msi
+SewerGEMS 2024                 24.0.0.25        C:\Program Files\Bentley\Sewe... msi
+SewerGEMS 2024                 24.0.0.25                                         Programs
+NI LabVIEW 2020 SP1 Run-Tim... 20.51.49152                                       msi
+NI LabWindows/CVI SxS Runti... 20.1.49152                                        msi
+WaterCAD 2024                  24.0.0.26        C:\Program Files\Bentley\Wate... msi
+WaterCAD 2024                  24.0.0.26                                         Programs
+NI-VISA Errors x64 24.5.0      24.50.49310                                       msi
+DAQExpress Chinese Context ... 8.10.49153                                        msi
+Microsoft .NET AppHost Pack... 72.0.23369                                        msi
+NI-Serial Runtime 24.5         24.50.49252                                       msi
+Microsoft .NET Framework 4.... 4.8.3761                                          msi
+NI Security Update (KB 67L8... 2.10.49152                                        msi
+NI LabVIEW Runtime 2021 SP1 f2 21.12.49154                                       msi
+NI Controller Driver C Lang... 24.50.49308                                       msi
+Universal CRT Tools x86        10.1.22621.3233                                   msi
+Windows SDK Desktop Tools x64  10.1.22621.3233                                   msi
+NI LabVIEW 2024 Q1 Modbus I... 24.10.49356                                       msi
+Microsoft Visual Studio Ins... 3.12.2149.20818                                   Programs
+Microsoft.Android.Runtime.3... 35.0.7.0                                          msi
+Autodesk AutoCAD 2025 - Eng... 25.0.72.0                                         Programs
+NI-RIO I/O Control for LabV... 24.0.49291                                        msi
+Microsoft.AspNetCore.Compon... 9.0.0.0                                           msi
+NI SwitchExecutive Support ... 23.80.49182                                       msi
+NI IVI Provider for MAX        22.50.49165                                       msi
+vs_devenx64vmsi                17.12.35410                                       msi
+NI-RIO I/O Control for LabVIEW 24.0.49291                                        msi
+NI LabVIEW 2024 (64-bit) Re... 24.10.49365                                       msi
+NI-Farm Errors 2024 Q1 (64-... 24.10.49360                                       msi
+NI ModInst Runtime 24.3 (64... 24.30.49256                                       msi
+Autodesk Storm and Sanitary... 13.6.323.0                                        Programs
+Autodesk Storm and Sanitary... 13.6.323.0                                        msi
+DAQExpress Context Help 5.0... 8.10.49153                                        msi
+NI Measurement Studio Commo... 19.0.49152                                        msi
+NI Measurement Studio Licenses 19.0.49152                                        msi
+NI PXI Platform Software Er... 24.50.49292                                       msi
+NI Vision Support for LabVI... 24.0.49294                                        msi
+NI Software License Complia... 24.30.49190                                       msi
+NI LabVIEW Runtime 2023 Q3 ... 23.35.49154                                       msi
+Microsoft Visual C++ 2022 X... 14.42.34433                                       msi
+NI LabVIEW 2019 Real-Time N... 19.0.49152                                        msi
+Microsoft .NET AppHost Pack... 48.144.23141                                      msi
+NI Switch Executive Full Co... 23.80.49182                                       msi
+NI-488.2 DLL Direct Entry S... 24.50.49280                                       msi
+NI-DAQmx Lang Runtime 24.5 ... 24.50.49564                                       msi
+NI LabWindows/CVI Diadem Co... 20.0.49152                                        msi
+NI-DAQmx DAQ Assistant 24.5.0  24.50.49578                                       msi
+Microsoft Visual C++ 2008 R... 9.0.30729.6161                                    msi
+Microsoft ASP.NET Core 8.0.... 8.0.11.24521                                      msi
+Windows Software Developmen... 8.100.25984                                       msi
+NI-RPC 24.5.0f162              24.50.49314                                       msi
+NI-VISA Runtime 24.5.0         24.50.49310                                       msi
+NI LabVIEW 2024 Q1 (64-bit)... 24.11.49154                                       msi
+NI LabVIEW 2024 Q1 FPGA Lic... 24.10.49364                                       msi
+NI LabVIEW 2024 Manuals        24.30.49385                                       msi
+NI System Configuration Lab... 24.50.49275                                       msi
+Microsoft SQL Server 2014 M... 12.0.2000.8                                       msi
+Oracle Client for Microsoft... 19.21            C:\Program Files\Oracle Clien... msi
+Oracle Client for Microsoft... 19.21                                             Programs
+Microsoft.iOS.Runtime.iossi... 18.1.9163.0                                       msi
+NI LabVIEW 2024 Q1 FPGA PID... 24.11.49154                                       msi
+NI Watchdog 23.5 Error File... 23.50.49262                                       msi
+NI Remote System Discovery ... 24.30.49262                                       msi
+Microsoft Visual C++ 2022 X... 14.42.34433                                       msi
+NI Logos 24.1                  24.10.49350                                       msi
+NI-PCI Bridge Driver 24.5      24.50.49307                                       msi
+NI Vision Assistant Legacy ... 24.0.49292                                        msi
+NI System API Windows 32-bi... 24.50.49275                                       msi
+Microsoft Visual C++ 2008 R... 9.0.30729.6161                                    msi
+NI LabVIEW 2024 Q3 Web Serv... 24.30.49352                                       msi
+NI LabWindows/CVI Shared Co... 20.0.49152                                        msi
+NI-Sync ADE Core Support 24... 24.30.49306                                       msi
+NI-DAQmx Timing Installer 2... 24.50.49588                                       msi
+Microsoft.MacCatalyst.Ref.n... 18.1.9163.0                                       msi
+NI TDM Excel Add-In 21.5.1     21.51.49163                                       msi
+NI-DAQmx Support for C 24.5.0  24.50.49574                                       msi
+NI Command Line Interface f... 24.30.49351                                       msi
+NI Atomic PXIe Peripheral M... 24.50.49306                                       msi
+NI-VISA 24.5.0                 24.50.49311                                       msi
+NI-VISA TULIP Passport 24.5.0  24.50.49310                                       msi
+NI Sync Domain Service (64-... 24.30.49302                                       msi
+NI RTSI PAL Device Library ... 24.50.49564                                       msi
+NI Matlab Interface            24.30.49348                                       msi
+NI LabVIEW Watchdog Support... 23.50.49243                                       msi
+NI-488.2 C/C++ Support 24.5    24.50.49280                                       msi
+Bentley OIDC Protocol Handler  24.7.31.1                                         msi
+NI LabWindows/CVI OpenGL Li... 20.0.49152                                        msi
+NI LabVIEW 2023 Q3 Run-Time... 23.30.49244                                       msi
+LEAP Bridge Concrete CE V20    20.0.0.58        C:\Program Files\Bentley\LEAP... msi
+Windows SDK for Windows Sto... 10.1.22621.3233                                   msi
+WinRT Intellisense IoT - Ot... 10.1.22621.3233                                   msi
+NI USI AOP5 DataPlugin 64-b... 21.50.49290                                       msi
+vs_vswebprotocolselectormsi    17.12.35410                                       msi
+NI LabVIEW VI Analyzer Tool... 24.10.49444                                       msi
+Microsoft.Android.Ref.35 (x64) 35.0.7.0                                          msi
+NI Vision Runtime 2024 Q1 6... 24.0.49292                                        msi
+NI Trace Engine (64-bit)       20.0.49152                                        msi
+OLI Engine in Aspen Plus       11.5.1.7                                          msi
+NI CEIP Common (64-bit)        24.50.49244                                       msi
+NI-Sync Support for LabVIEW    24.30.49293                                       msi
+Microsoft Windows Desktop T... 72.0.23378                                        msi
+Microsoft.NET.Sdk.macOS.Man... 14.0.8478                                         msi
+MicroStation 2023              23.0.2.71        C:\Program Files\Bentley\Micr... msi
+NI-VISA Interactive Control... 24.50.49318                                       msi
+DAQExpress German Context H... 8.10.49153                                        msi
+Microsoft .NET Host - 6.0.3... 48.144.23141                                      msi
+Microsoft .NET AppHost Pack... 64.44.23191                                       msi
+NI LabVIEW 2024 Advanced Si... 24.10.49440                                       msi
+NI Artistic Style Tools 2.2... 2.50.49152                                        msi
+Microsoft NetStandard SDK      15.0.51105                                        msi
+Dassault Systemes Software ... 9.1.2                                             msi
+NI LabWindows/CVI 2020 f1 S... 20.1.49152                                        msi
+Windows SDK Modern Versione... 10.1.22621.3233                                   msi
+NI-VISA Support for LabVIEW    24.50.49310                                       msi
+NI AFW Custom UI Assemblies    24.10.49440                                       msi
+NI-MDBG 24.5.0f167             24.50.49319                                       msi
+Microsoft Visual C++ 2012 x... 11.0.61030                                        msi
+DescartesDocumentation         24.0.1.6         C:\ProgramData\Bentley\Docume... msi
+NI LabVIEW 2024 Q1 (64-bit)... 24.10.49360                                       msi
+Microsoft.iOS.Sdk.net8.0_17... 17.0.8523.0                                       msi
+Sentinel Protection Install... 7.6.9            C:\Program Files (x86)\SafeNe... msi
+NI Measurement Studio Commo... 19.11.49152                                       msi
+NI Circuit Design Suite 14.... 14.30.49153                                       msi
+NI-Cabled PCIe 24.5 64-bit     24.50.49313                                       msi
+NI System Web Server Base 2... 24.30.49353                                       msi
+NI ModInst 24.3                24.30.49256                                       msi
+vs_clickoncebootstrappermsires 17.12.35410                                       msi
+NI Authentication 2024 Q3 (... 24.30.49350                                       msi
+NI Certificates 24.8.0         24.80.49163                                       msi
+NI-Sync 64-bit Ethernet Dri... 23.80.49260                                       msi
+NI LabVIEW 2024 Deployment ... 24.30.49383                                       msi
+NI LabWindows/CVI 2020 Libr... 20.3.49152                                        msi
+NI Variable Engine Serial S... 24.10.49352                                       msi
+vs_minshellx64msi              17.12.35410                                       msi
+Python 3.13.0 Add to Path (... 3.13.150.0                                        msi
+Microsoft.Maui.Core (x64)      9.0.0.0                                           msi
+NI LabVIEW 2024 Simulation     24.30.49385                                       msi
+NI-MXLC LabVIEW Development... 24.50.49330                                       msi
+NI LabVIEW 2024 Digital Fil... 24.10.49440                                       msi
+Microsoft.NET.Sdk.Android.M... 35.0.7                                            msi
+NI-DAQmx Switch Core 24.5.0    24.50.49578                                       msi
+VISA Shared Components 7.2.... 7.2.4                                             msi
+VISA Shared Components 7.2.... 7.2                                               Programs
+WinRT Intellisense PPI - en-us 10.1.22621.3233                                   msi
+DAQExpress Japanese Context... 8.10.49153                                        msi
+DAQExpress_French_Support      8.10.49153                                        msi
+NI-DAQmx Store Product 24.5.0  24.50.49564                                       msi
+Microsoft.iOS.Sdk.net9.0_18... 18.1.9163.0                                       msi
+Microsoft .NET AppHost Pack... 72.0.23369                                        msi
+Python 3.13.0 Standard Libr... 3.13.150.0                                        msi
+NI Vision Example Images 24.0  24.0.49292                                        msi
+NI Switch Executive Develop... 23.80.49182                                       msi
+Windows Desktop Extension SDK  10.1.22621.3233                                   msi
+vs_minshellinteropx64msi       17.12.35410                                       msi
+NI-MDBG 24.5.0f167 for 64 B... 24.50.49319                                       msi
+Microsoft .NET Runtime - 8.... 64.44.23191                                       msi
+NI Standard Logos Requests ... 23.80.49178                                       msi
+NI Controller Driver 24.5 6... 24.50.49313                                       msi
+NI-DAQmx MAX Configuration ... 24.50.49578                                       msi
+WPTx64 (DesktopEditions)       10.1.22621.3233                                   msi
+Dassault Systemes Software ... 8.1.3                                             msi
+Windows SDK AddOn              10.1.0.0                                          msi
+Python 3.13.0 Tcl/Tk Suppor... 3.13.150.0                                        msi
+NI Error Reporting Native      24.50.49231                                       msi
+Microsoft.MacCatalyst.Sdk.n... 18.0.9617.0                                       msi
+ProjectWise Drive              24.2.106.0                                        msi
+ProjectWise Drive              2024.2.106                                        Programs
+NI Error Reporting Interfac... 20.10.49152                                       msi
+NI System Web Server Base 2... 24.30.49353                                       msi
+NI System Configuration Run... 24.50.49275                                       msi
+NI-VISA ENET Passport (64-B... 24.50.49310                                       msi
+Windows SDK EULA               10.1.22621.3233                                   msi
+Microsoft .NET 8.0 Template... 32.10.60788                                       msi
+NI SSL LabVIEW 2024 Q3 RTE ... 24.30.49348                                       msi
+Microsoft.NET.Workload.Emsc... 72.44.23362                                       msi
+DAQExpress_Japanese_Support    8.10.49153                                        msi
+NI LabVIEW 2024 Q1 FPGA Lin... 24.11.49154                                       msi
+Autodesk Access                2.6.0.118                                         Programs
+NI LabWindows/CVI 2020 Netw... 20.0.49152                                        msi
+NI Remote Provider for MAX ... 24.30.49262                                       msi
+Xamarin Remoted iOS Simulator  17.6.0.524                                        msi
+NI Error Reporting 2020        20.10.49152                                       msi
+NI Vision Common Resources ... 24.0.49292                                        msi
+NI MXS 24.3.0                  24.30.49261                                       msi
+Microsoft System CLR Types ... 12.0.2402.11                                      msi
+NI LabVIEW DataFinder Conne... 24.10.49448                                       msi
+NI PXI Platform Services Co... 24.50.49313                                       msi
+Microsoft.NET.Sdk.tvOS.Mani... 17.0.8478                                         msi
+.NET for Android Templates ... 35.0.7.0                                          msi
+NI Variable Engine LabVIEW ... 24.30.49385                                       msi
+Windows Team Extension SDK     10.1.22621.3233                                   msi
+NI-488.2 24.5                  24.50.49280                                       msi
+NI Ethernet Device Enumerator  24.50.49319                                       msi
+Microsoft.NET.Sdk.macOS.Man... 15.1.9163                                         msi
+Microsoft .NET AppHost Pack... 64.44.23191                                       msi
+NI Update Service 21.0 (64-... 21.0.49243                                        msi
+NI-MXLC Core 24.5.0            24.50.49330                                       msi
+NI System Monitor 24.5 64-bit  24.50.49313                                       msi
+Aspen Version Comparison As... 39.0.0                                            msi
+NI-APAL 24.5 Error Files       24.50.49254                                       msi
+NI LabVIEW 2024 Real-Time N... 24.10.49356                                       msi
+NI LabVIEW Runtime 2020 SP1... 20.10.49152                                       msi
+NI Vision Error Files 24.0 ... 24.0.49292                                        msi
+NI Vision Common Resources ... 24.0.49292                                        msi
+Microsoft.Android.Runtime.3... 35.0.7.0                                          msi
+NI LabWindows/CVI SxS Runti... 20.1.49155                                        msi
+novaPDF 9 SDK COM (x64)        9.3.240          C:\Program Files\Softland\nov... msi
+vs_minshellmsires              17.12.35410                                       msi
+NI LabVIEW 2021 Real-Time N... 21.0.49443                                        msi
+NI LabVIEW 2024 Q1 Real-Tim... 24.10.49359                                       msi
+NI OpenVINO 24.0 (64-bit)      24.0.49290                                        msi
+NI TDM Excel Add-In 21.5.1 ... 21.51.49163                                       msi
+NI-DAQmx SCXI for 64 Bit Wi... 24.50.49588                                       msi
+NI-488.2 Store Item 24.5       24.50.49291                                       msi
+NI LabWindows/CVI SxS Runti... 20.1.49152                                        msi
+Windows SDK for Windows Sto... 10.1.22621.3233                                   msi
+NI LabVIEW 2024 Real-Time N... 24.10.49356                                       msi
+Microsoft .NET Host FX Reso... 72.0.23369                                        msi
+NI Vision Full Common 24.0     24.0.49292                                        msi
+NI-MXDF 24.5.0f167 for 64 B... 24.50.49319                                       msi
+Dassault Systemes Software ... 12.0.1                                            msi
+WinAppDeploy                   10.1.22621.3233                                   msi
+NI LabVIEW 2024 License 64-bit 24.30.49381                                       msi
+NI MSDT Redistributables - ... 8.16.49152                                        msi
+NI LabWindows/CVI 2020 f1 T... 20.1.49152                                        msi
+NI Vision 2024 Q1 64-bit       24.0.49292                                        msi
+NI LabVIEW 2024 Help           24.30.49385                                       msi
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+NI Variable Engine (64-bit)    24.10.49354                                       msi
+NI-DAQmx Support for LabVIE... 24.50.49578                                       msi
+Application Verifier x64 Ex... 10.1.22621.3233                                   msi
+NI Watchdog 23.5 Error Files   23.50.49262                                       msi
+NI-Sync 24.3.0 for NI I/O T... 24.30.49303                                       msi
+Microsoft Visual Studio Code   1.96.0                                            Programs
+NI LabVIEW Runtime Interop ... 20.11.49157                                       msi
+PTC Creo Platform Agent        1.6.406          C:\Program Files\PTC\            msi
+Visual Studio Community 2022   17.12.3                                           Programs
+Microsoft .NET Host - 9.0.0... 72.0.23369                                        msi
+Windows SDK DirectX x86 Remote 10.1.22621.3233                                   msi
+ChemSep 8.44                   8.44                                              Programs
+NI-Farm Client 2024 Q1 (64-... 24.10.49363                                       msi
+CosmosScope64 P-2019.06        P-2019.06                                         Programs
+Python 3.13.0 Development L... 3.13.150.0                                        msi
+Digilent Software              1.6.7                                             Programs
+NI Assistant Framework LabV... 24.10.49444                                       msi
+Foxit PDF Reader               2024.3.0.26795                                    Programs
+Microsoft .NET Runtime - 9.... 72.0.23369                                        msi
+Microsoft.iOS.Windows.Sdk.n... 18.0.9617.0                                       msi
+Google Chrome                  131.0.6778.140                                    Programs
+NI Web Server 23.5.0           23.50.49152                                       msi
+Microsoft.iOS.Windows.Sdk.n... 18.0.8316.0                                       msi
+NI Logos XT Support            24.10.49350                                       msi
+LPILE v2022.12                 (12.12)                                           Programs
+WinRT Intellisense IoT - en-us 10.1.22621.3233                                   msi
+Microsoft Edge                 131.0.2903.99                                     Programs
+NI Vision Example Finder Su... 24.0.49288                                        msi
+NI Software                    24.5.0                                            Programs
+NI LabVIEW Desktop Executio... 24.10.49444                                       msi
+RStudio                        2024.09.1+394                                     Programs
+NI Vision Assistant Applica... 24.0.49292                                        msi
+NI Windows Modbus IO Server    24.10.49352                                       msi
+Windows App Certification K... 10.1.22621.3233                                   msi
+Windows SDK for Windows Sto... 10.1.22621.3233                                   msi
+NI-DAQmx MAX Support 64-bit... 24.50.49578                                       msi
+Microsoft.NET.Sdk.Android.M... 34.0.43                                           msi
+NI MSDT Redistributables - ... 8.16.49152                                        msi
+NI Vision 2024 Q1              24.0.49292                                        msi
+VS JIT Debugger                17.0.157.0                                        msi
+NI-DAQmx 653x Installer for... 14.50.49152                                       msi
+vs_filehandler_x86             17.12.35410                                       msi
+Microsoft .NET Framework Cu... 4.8.9037                                          msi
+NI Measurement Studio Commo... 19.10.49152                                       msi
+NI MXI Manager 24.5 64-bit     24.50.49310                                       msi
+Microsoft Visual C++ 2013 R... 12.0.40664.0                                      Programs
+NI SSL LabVIEW RTE 2022 Q3 ... 22.30.49294                                       msi
+Microsoft .NET Framework 4.... 4.6.1590                                          msi
+Microsoft ASP.NET Core 8.0.... 8.0.0.23531                                       Programs
+Python 3.13.0 Core Interpre... 3.13.150.0                                        msi
+Microsoft Visual C++ 2013 R... 12.0.30501.0                                      Programs
+Microsoft ASP.NET Core 9.0.... 9.0.0.24529                                       msi
+NI-Mesa                        17.11.49152                                       msi
+NI LabWindows/CVI 2020 Anal... 20.0.49152                                        msi
+NI LabVIEW Web Server 64-Bi... 24.30.49352                                       msi
+WinRT Intellisense Mobile -... 10.1.22621.3233                                   msi
+NI PXI Platform Services St... 24.50.49312                                       msi
+NI-488.2 Documentation 24.5    24.50.49290                                       msi
+WinRT Intellisense UAP - Ot... 10.1.22621.3233                                   msi
+NI LabVIEW Digital Filter D... 24.10.49446                                       msi
+Microsoft.NET.Workload.Emsc... 72.44.23362                                       msi
+NI-DIM 24.5.0 for 64-bit Wi... 24.50.49330                                       msi
+Microsoft Windows Desktop R... 6.0.36.34217                                      Programs
+Microsoft Windows Desktop R... 48.144.23186                                      msi
+NI DataFinder Client API 64... 23.50.49176                                       msi
+Windows Software Developmen... 8.100.26936                                       msi
+NI Vision Runtime 2024 Q1      24.0.49292                                        msi
+PTC Creo Thumbnail Viewer 10.0 38.23.423                                         msi
+WinRT Intellisense UAP - en-us 10.1.22621.3233                                   msi
+NI-DAQmx 24.5.0                24.50.49588                                       msi
+NI LabVIEW Offline Help Man... 24.30.49384                                       msi
+NI LabVIEW Runtime 2020 SP1 f1 20.11.49157                                       msi
+NI LabWindows/CVI Execution... 1.11.49152                                        msi
+vs_minshellsharedmsi           17.12.35410                                       msi
+NI-RoCo 24.5 (64-bit)          24.50.49327                                       msi
+NI LabVIEW 2020 Real-Time N... 20.0.49152                                        msi
+Aspen OptiRouter V12.1         40.0.0                                            msi
+Microsoft .NET Core Host - ... 24.192.31915                                      msi
+NI Vision Assistant Example... 24.0.49292                                        msi
+NI-DAQmx Common Digital for... 24.50.49588                                       msi
+NI-RIO 24.0 FPGA Driver (64... 24.0.49291                                        msi
+NI Device Monitor 22.5         22.50.49218                                       msi
+NI LabVIEW 2022 Q3 Run-Time... 22.30.49295                                       msi
+Microsoft Windows Desktop R... 8.0.0.33101                                       Programs
+Microsoft Windows Desktop R... 64.0.5329                                         msi
+NI-DAQmx FSL Installer 24.5.0  24.50.49588                                       msi
+WinRT Intellisense PPI - Ot... 10.1.22621.3233                                   msi
+VS Immersive Activate Helper   17.0.157.0                                        msi
+NI VISA.NET Shared Componen... 7.20.49152                                        msi
+NI-RIO FPGA Interface Drive... 24.0.49290                                        msi
+Microsoft Visual C++ 2022 X... 14.42.34433                                       msi
+Microsoft Visual Studio Set... 3.12.2140.44225                                   msi
+Siemens NX 2306                23.6.9141.5      C:\Program Files\Siemens\NX2306\ msi
+Microsoft Visual C++ 2013 x... 12.0.40664                                        msi
+NI LabVIEW Runtime Interop ... 23.35.49154                                       msi
+SDK ARM Additions              10.1.22621.3233                                   msi
+NI-Sync Driver Support 24.3.0  24.30.49305                                       msi
+TransCAD 9.0 (Academic 64-bit) 9.0                                               Programs
+NI DataSocket 19.0 (64-bit)    24.10.49351                                       msi
+NI Vision 2024 Q1 Training ... 24.0.49292                                        msi
+Microsoft.Maui.Graphics (x64)  9.0.0.0                                           msi
+Windows SDK Desktop Tools x86  10.1.22621.3233                                   msi
+Microsoft TestPlatform SDK ... 17.10.0.9037153                                   msi
+Microsoft.NET.Sdk.MacCataly... 17.0.8478                                         msi
+Microsoft ASP.NET Core 6.0.... 6.0.36.24516                                      msi
+Python 3.13.0 pip Bootstrap... 3.13.150.0                                        msi
+NI LabVIEW 2021 SP1 Run-Tim... 21.50.49152                                       msi
+NI LabVIEW 2024 Q1 Real-Tim... 24.0.49283                                        msi
+NI-PAL 24.5 for 64 Bit Windows 24.50.49320                                       msi
+NI DataFinder Client API       23.50.49176                                       msi
+.NET MAUI Templates (x64)      9.0.0.0                                           msi
+NI LabWindows/CVI 2020 Inte... 20.0.49152                                        msi
+NI-VISA Development Common ... 24.50.49310                                       msi
+Microsoft PowerBI Desktop (... 2.138.1004.0                                      Programs
+NI LabWindows/CVI 2020 .NET... 20.0.49152                                        msi
+NI I/O Trace 24.5.0            24.50.49276                                       msi
+NI MAX Remote Configuration... 24.50.49275                                       msi
+OLI Studio 11.5                11.5.1                                            msi
+Microsoft UniversalWindowsP... 15.9.16                                           msi
+NI-VISA Development Common ... 24.50.49310                                       msi
+NI Authentication 2024 Q3      24.30.49350                                       msi
+NI-RIO I/O Control for LabV... 24.0.49291                                        msi
+NI-RPC 24.5.0f162 for 64 Bi... 24.50.49314                                       msi
+NI-DAQmx Korean Language Pa... 20.10.49152                                       msi
+Python 3.13.0 Executables (... 3.13.150.0                                        msi
+NI SLCP Common (64-bit)        24.50.49244                                       msi
+NI LabWindows/CVI 2019 Netw... 20.0.49152                                        msi
+NI PXI Platform Framework 2... 24.50.49313                                       msi
+NI LabVIEW Runtime Interop ... 24.32.49152                                       msi
+NI Microsoft .NET 6 Desktop... 24.50.49179                                       msi
+Microsoft.MacCatalyst.Runti... 18.1.9163.0                                       msi
+NI Web Pipeline 23.5           23.50.49224                                       msi
+NI Remote PXI Provider for ... 24.30.49261                                       msi
+Windows SDK Facade Windows ... 10.1.22621.3233                                   msi
+NI IO Server Provider 2024 ... 24.10.49356                                       msi
+DAQExpress_Korean_Support      8.10.49153                                        msi
+NI-P2P 24.0.0 (64-bit)         24.0.49300                                        msi
+NI Sync Domain Service 24.3.0  24.30.49302                                       msi
+NI LabVIEW FPGA Support for... 24.10.49363                                       msi
+Windows SDK Desktop Headers... 10.1.22621.3233                                   msi
+Microsoft.MacCatalyst.Runti... 18.1.9163.0                                       msi
+Vic-3D 9                       9.4.3991                                          msi
+Visual C++ Library CRT Appx... 14.42.34433                                       msi
+NI Assistant Framework LabV... 24.10.49440                                       msi
+Microsoft Windows Desktop T... 48.144.23186                                      msi
+IVI Shared Components Packa... 3.0.2828.0                                        msi
+Universal CRT Redistributable  10.1.22621.3233                                   msi
+Microsoft .NET Host FX Reso... 48.144.23141                                      msi
+NI-RIO I/O Control for LabV... 24.0.49291                                        msi
+Ansys Electromagnetics Suit... 24.1.0                                            Programs
+NI LabVIEW C Interface         1.4.49152                                         msi
+Tecnomatix 2307                2307.0           C:\Program Files\Tecnomatix_2... msi
+vs_clickoncebootstrappermsi    17.12.35410                                       msi
+Microsoft.MacCatalyst.Sdk.n... 18.1.9163.0                                       msi
+NI System Configuration Lab... 24.50.49275                                       msi
+NI Example Finder 21.0         21.0.49488                                        msi
+NI Measurement Studio Analy... 19.0.49152                                        msi
+Epic Online Services           2.0.44.0                                          msi
+NI MAX Remote Configuration... 24.50.49275                                       msi
+NI Switch Executive 2023       23.80.49182                                       msi
+Microsoft Windows Desktop R... 64.44.23253                                       msi
+NI System Configuration Run... 24.50.49275                                       msi
+OPC Core Components Redistr... 3.0.10600                                         msi
+NI-DAQmx Japanese Language ... 20.10.49152                                       msi
+NI IVI Class Drivers Runtim... 22.50.49166                                       msi
+Windows SDK for Windows Sto... 10.1.22621.3233                                   msi
+NI Assistant Framework 64-b... 24.10.49440                                       msi
+NI Switch Executive Full Co... 23.80.49182                                       msi
+NI-VISA .NET Runtime 24.5.0    24.50.49310                                       msi
+NI LabVIEW 2024 Help File      24.32.49152                                       msi
+Visualization Content          24.0.0.1         C:\Program Files (x86)\Bentle... msi
+NI LabVIEW 2024 Deployable ... 24.30.49385                                       msi
+NI .NET Framework 4.8.0        23.80.49180                                       msi
+NI UsiCore 64-bit              21.50.49152                                       msi
+Aspen Properties V12.1 (64bit) 39.0.0                                            msi
+NI-Serial Store Item 24.5      24.50.49253                                       msi
+Microsoft ODBC Driver 11 fo... 12.2.5543.11                                      msi
+Microsoft System CLR Types ... 15.0.2000.5                                       msi
+Microsoft.MacCatalyst.Sdk.n... 17.0.8523.0                                       msi
+NI OpenVINO 24.0               24.0.49290                                        msi
+NI-VISA ENET Passport 24.5.0   24.50.49310                                       msi
+Microsoft.NETCore.App.Runti... 9.0.0.0                                           msi
+Microsoft ASP.NET Core 8.0.... 8.0.11.24521                                      msi
+Microsoft .NET Standard Tar... 24.0.28113                                        msi
+NI SSL Support                 24.10.49349                                       msi
+NI-DAQmx STC 24.5.0            24.50.49588                                       msi
+Microsoft Visual C++ 2012 x... 11.0.61030                                        msi
+NI Measurement Studio Commo... 19.10.49152                                       msi
+NI-DAQmx Chinese Language P... 20.10.49152                                       msi
+SSA PDF Report Writer          9.3.240          C:\ProgramData\Softland\novaP... msi
+NI Launcher                    20.0.49152                                        msi
+Microsoft Visual C++ 2005 R... 8.0.61001                                         msi
+NI LabVIEW 2024 Q1 FPGA Err... 24.10.49367                                       msi
+Microsoft .NET Targeting Pa... 64.44.23191                                       msi
+NI Measurement & Automation... 24.30.49263                                       msi
+NI License Manager Compatib... 24.0.49776                                        msi
+Print Client                   9.4.75.3406      C:\Program Files (x86)\Print ... msi
+NI LabVIEW 2023 Real-Time N... 23.10.49265                                       msi
+Windows IoT Extension SDK C... 10.1.22621.3233                                   msi
+Windows SDK Desktop Libs x64   10.1.22621.3233                                   msi
+Vic-2D 6                       6.0.1321                                          msi
+NI-DAQmx Support for LabWin... 24.50.49574                                       msi
+Microsoft Visual C++ 2012 x... 11.0.61030                                        msi
+Reset NI Config 24.3.0         24.30.49261                                       msi
+Microsoft Visual C++ 2012 R... 11.0.61030.0                                      Programs
+NI-VISA LabWindows/CVI Supp... 24.50.49310                                       msi
+NI-Sync 64-bit Documentatio... 24.30.49306                                       msi
+Microsoft .NET SDK 8.0.404 ... 8.4.424.52308                                     Programs
+NI SSL LabVIEW RTE 2019 Sup... 19.0.49152                                        msi
+Microsoft.MacCatalyst.Templ... 18.1.9163.0                                       msi
+Microsoft.NET.Workload.Mono... 72.0.23369                                        msi
+Microsoft.iOS.Ref.net9.0_18... 18.1.9163.0                                       msi
+vs_tipsmsi                     17.12.35410                                       msi
+NI LabWindows/CVI Execution... 1.11.49152                                        msi
+Microsoft ASP.NET Core 6.0.... 6.0.36.24516                                      Programs
+NI MDF Support                 24.50.49247                                       msi
+HEC-HMS 4.12                   4.12             C:\Program Files\HEC\HEC-HMS\... msi
+NI Logos LabVIEW 2024 Support  24.30.49385                                       msi
+VI Package Manager 2024        24.30.49201                                       msi
+Microsoft.iOS.Templates (x64)  18.1.9163.0                                       msi
+NI-PXIPF Error 24.5.0          24.50.49292                                       msi
+NI LabWindows/CVI 2020 f1 S... 20.1.49152                                        msi
+Microsoft.Maui.Controls.Bui... 9.0.0.0                                           msi
+windows_toolscorepkg           17.12.35410                                       msi
+NI DataPlugin Python 21.5 f... 21.50.49152                                       msi
+NI-DAQmx SCXI 24.5.0           24.50.49588                                       msi
+NI Web Pipeline (64-bit) 23.5  23.50.49224                                       msi
+NI-488.2 64-bit Documentati... 24.50.49290                                       msi
+Windows SDK Signing Tools      10.1.22621.3233                                   msi
+Entity Framework 6.2.0 Tool... 6.2.0.0                                           msi
+Microsoft ReportViewer 2010... 10.0.40220                                        msi
+NI-DAQmx Dynamic Signal Acq... 24.50.49588                                       msi
+Process Modeling (Aspen Plu... 39.0.0                                            msi
+NI LabVIEW 2024 Q1 FPGA Lic... 24.10.49364                                       msi
+Microsoft .NET Targeting Pa... 48.144.23141                                      msi
+NI PXI Platform Software Er... 24.50.49292                                       msi
+NI SSL LabVIEW RTE 2020 SP1... 20.50.49152                                       msi
+NI Vision Assistant Legacy ... 24.0.49292                                        msi
+NI UsiCore                     21.50.49152                                       msi
+NI System Configuration CVI... 24.50.49275                                       msi
+PLCLogix 500                   1.1.17           C:\Program Files (x86)\Logic ... msi
+PTC Creo 10 Platform Services  1.3.46           C:\Program Files\PTC\            msi
+PTC Creo 10 Platform Services  1.0.499                                           Programs
+Windows SDK for Windows Sto... 10.1.22621.3233                                   msi
+NI-Sync Atomic API 64-bit 2... 24.30.49306                                       msi
+Microsoft Visual C++ 2008 R... 9.0.30729.4148                                    msi
+Microsoft ASP.NET Core 9.0.... 9.0.0.24529                                       msi
+Microsoft .NET Toolset 8.0.... 32.9.28020                                        msi
+NI Portable Configuration 2... 24.30.49261                                       msi
+Microsoft .NET Host - 8.0.1... 64.44.23191                                       msi
+NI-Sync Runtime 23.8.0         23.80.49260                                       msi
+NI Circuit Design Suite 14.... 14.30.49153                                       msi
+Microsoft ASP.NET Core 6.0.... 6.0.36.24516                                      msi
+NI LabVIEW Runtime Interop ... 24.30.49386                                       msi
+Process Modeling (HYSYS) V1... 39.0.0                                            msi
+icecap_collection_neutral      17.12.35410                                       msi
+NI Vision Example Images 24... 24.0.49292                                        msi
+NI DataFinder Desktop Quit     21.50.49361                                       msi
+Microsoft .NET Native SDK      15.0.24211.7                                      msi
+NI-Sync Wrapper 24.3.0         24.30.49303                                       msi
+Microsoft SQL Server Compac... 3.5.8080.0       C:\Program Files (x86)\Micros... msi
+Visual C++ Library CRT ARM6... 14.42.34433                                       msi
+LEAP Bridge Concrete CONNEC... 20.0.0.58                                         Programs
+Microsoft.NET.Sdk.MacCataly... 18.1.9163                                         msi
+NI-488.2 Runtime 2017 f1 fo... 17.1.49152                                        msi
+NI LabWindows/CVI Real-Time... 20.0.49152                                        msi
+NI Circuit Design Suite Dat... 14.30.49153                                       msi
+NI-MXDF 24.5.0f167             24.50.49319                                       msi
+OpenRoads Designer 2023        23.0.1.11                                         Programs
+OpenRoads Designer 2023        23.0.1.11        C:\Program Files\Bentley\Open... msi
+NI LabVIEW 2024 Q1 FPGA Fix... 24.11.49154                                       msi
+Windows SDK                    10.1.22621.3233                                   msi
+NI-VISA Development Support... 24.50.49310                                       msi
+NI MXI Manager 24.5            24.50.49310                                       msi
+NI LabVIEW Runtime 2021 SP1... 21.10.49476                                       msi
+NI Physical Interface Exten... 24.50.49560                                       msi
+NI Error Reporting Interfac... 20.10.49152                                       msi
+NI LabVIEW Advanced Signal ... 24.10.49446                                       msi
+NI Artistic Style Tools 2.2... 2.50.49152                                        msi
+Microsoft .NET Runtime - 6.... 48.124.15198                                      msi
+Microsoft Silverlight          5.1.50918.0      c:\Program Files\Microsoft Si... msi
+Microsoft ASP.NET Core 3.1.... 3.1.32.22566                                      Programs
+NI Controller Driver CVI Su... 24.50.49308                                       msi
+Windows Software Developmen... 8.100.26936                                       msi
+NI LabVIEW 2024 Real-Time B... 24.10.49365                                       msi
+OLI Engine in Aspen HYSYS      11.5.1.7                                          msi
+vs_Graphics_Singletonx64       17.12.35410                                       msi
+Dassault Systemes Software ... 11.0.1                                            msi
+Microsoft ASP.NET Core 8.0.... 8.0.0.23531                                       msi
+NI Measurement Studio Core ... 19.2.49152                                        msi
+NI-DAQmx MIO Device Drivers... 24.50.49588                                       msi
+NI-DAQmx DAQExpress Support... 20.10.49152                                       msi
+Microsoft.Maui.Controls.Xam... 9.0.0.0                                           msi
+NI-VISA Headers 24.5.0         24.50.49310                                       msi
+Microsoft SQL Server Compac... 3.5.8080.0       C:\Program Files\Microsoft SQ... msi
+NI LabWindows/CVI Shared Co... 20.0.49152                                        msi
+Windows SDK ARM Desktop Tools  10.1.22621.3233                                   msi
+Microsoft .NET Framework 4.... 4.6.1590                                          msi
+Python Launcher                3.13.150.0                                        msi
+Microsoft ASP.NET Core 6.0.... 6.0.36.24516                                      msi
+OpenRoadsDesignerDocumentation 23.0.0.26        C:\ProgramData\Bentley\Docume... msi
+NI TDM Streaming 24.3          24.30.49349                                       msi
+Microsoft .NET Framework 4.... 4.7.3062                                          msi
+Microsoft Visual C++ 2012 x... 11.0.61030                                        msi
+Microsoft.Maui.Controls.Com... 9.0.0.0                                           msi
+NI LabWindows/CVI 2020 Netw... 20.0.49152                                        msi
+NI LabVIEW Runtime 2023 Q3 ... 23.30.49272                                       msi
+NI System Details Web Servi... 23.30.49272                                       msi
+NI Measurement Studio 2019 f4  19.4.49152                                        msi
+NI-VISA System API Support ... 24.50.49310                                       msi
+NI Switch Executive Deploym... 23.80.49182                                       msi
+NI Vision Error Files 24.0     24.0.49292                                        msi
+NI LabWindows/CVI 2015 DLL ... 15.11.49152                                       msi
+NI Package Manager Core        24.80.49281                                       msi
+NI ModInst Runtime 24.3        24.30.49256                                       msi
+vs_CoreEditorFonts             17.7.40001                                        msi
+Windows Software Developmen... 10.1.22621.3233                                   Programs
+NI Error Reporting Common      24.50.49705                                       msi
+NI Switch Executive Documen... 23.80.49182                                       msi
+NI Vision Full Common 24.0 ... 24.0.49292                                        msi
+Microsoft ASP.NET Core 3.1.... 3.1.32.22566                                      msi
+NI-MXLC (64-bit)               24.50.49330                                       msi
+NI Distributed System Manag... 20.0.49152                                        msi
+Windows Team Extension SDK ... 10.1.22621.3233                                   msi
+vs_SQLClickOnceBootstrappermsi 17.12.35410                                       msi
+NI-VISA ENET-Serial Passpor... 24.50.49310                                       msi
+Microsoft.NET.Sdk.iOS.Manif... 18.1.9163                                         msi
+NI PXI Firmware                24.0.49283                                        msi
+Microsoft .NET Runtime - 8.... 64.44.23191                                       msi
+NI LabWindows/CVI 2020 .NET... 20.0.49152                                        msi
+NI Assistant Framework 64-b... 24.10.49440                                       msi
+NI LabWindows/CVI Execution... 1.11.49152                                        msi
+NI Portable Configuration f... 24.30.49261                                       msi
+Microsoft Visual C++ 2022 X... 14.42.34433                                       msi
+Microsoft .NET Host FX Reso... 48.124.15198                                      msi
+NI-VISA USB Passport 24.5.0    24.50.49310                                       msi
+NI Controller Driver 24.5      24.50.49313                                       msi
+Microsoft.iOS.Runtime.ios-a... 18.1.9163.0                                       msi
+NI Python Interface            24.30.49348                                       msi
+Microsoft Visual Basic for ... 7.1.11.35                                         msi
+NI License Manager 64 bit      24.0.49245                                        msi
+Windows Software Developmen... 8.100.25984                                       msi
+NI-VISA PXI Passport 24.5.0    24.50.49317                                       msi
+NI LabVIEW Project Dependen... 24.30.49311                                       msi
+Visualization Content for L... 24.0.0.1         C:\Program Files (x86)\Bentle... msi
+Epic Games Launcher            1.3.93.0         C:\Program Files (x86)\Epic G... msi
+NI-488.2 Example Common 24.5   24.50.49278                                       msi
+NI-DAQmx Dynamic Signal Acq... 24.50.49588                                       msi
+NI LabVIEW 2024 (64-bit) Sc... 24.30.49385                                       msi
+MicroStationDocumentationPr... 24.0.1.36        C:\ProgramData\Bentley\Docume... msi
+Microsoft .NET AppHost Pack... 48.144.23141                                      msi
+NI AFW Custom UI               24.10.49440                                       msi
+NI TensorFlow 24.0             24.0.49290                                        msi
+Microsoft ASP.NET Core 3.1.... 3.1.32.22566                                      msi
+DAQExpress Korean Context H... 8.10.49153                                        msi
+Microsoft Visual C++ 2015-2... 14.42.34433.0                                     Programs
+VIPM 2024.3                    24.3.2761        C:\Program Files\JKI\VI Packa... msi
+Universal CRT Headers Libra... 10.1.22621.3233                                   msi
+NI-WatchDog Host 23.5          23.50.49243                                       msi
+NI OPCEnum Shared              5.63.49152                                        msi
+Microsoft .NET Host - 6.0.3... 48.144.23141                                      msi
+NI Circuit Design Suite 14.... 14.30.49153                                       msi
+Windows Software Developmen... 8.100.25984                                       msi
+NI LabWindows/CVI 2019 Netw... 20.0.49152                                        msi
+NI-P2P 24.0.0                  24.0.49300                                        msi
+Microsoft.Maui.Graphics.Win... 9.0.0.0                                           msi
+NI VC2010RTE x64               10.11.49152                                       msi
+NI LabVIEW (64 bit) Merge U... 24.30.49386                                       msi
+NI-MXLC (32-bit)               24.50.49330                                       msi
+NI SSL LabVIEW RTE 2023 Q3 ... 23.30.49238                                       msi
+Windows SDK Desktop Headers... 10.1.22621.3233                                   msi
+NI PXI Platform Services Ru... 24.50.49313                                       msi
+NI Matlab Interface (64-bit)   24.30.49348                                       msi
+MSI Development Tools          10.1.22621.3233                                   msi
+Microsoft.NET.Sdk.Maui.Mani... 9.0.0                                             msi
+NI-VISA GPIB Passport (64-B... 24.50.49310                                       msi
+NI-MRU 24.5.0 for 64-bit Wi... 24.50.49330                                       msi
+NI LabVIEW 2024 Q1 Real-Tim... 24.10.49362                                       msi
+NI-ROCO Error Files 24.5.0 ... 24.50.49325                                       msi
+NI IVI Engine (64-bit)         142.5.0.49164                                     msi
+NI-VISA PXI Passport (64-Bi... 24.50.49317                                       msi
+Microsoft .NET Runtime - 6.... 6.0.36.34214                                      Programs
+Microsoft .NET Runtime - 6.... 48.144.23141                                      msi
+NI IVI CVI Instrument Drive... 20.0.49152                                        msi
+NI IVI Compliance Package R... 22.50.49166                                       msi
+NI LabWindows/CVI 2020 Netw... 20.0.49152                                        msi
+NI LabVIEW 2024 Q1 FPGA Sup... 24.11.49154                                       msi
+NI DataSocket 19.0             24.10.49351                                       msi
+NI DataFinder Connectivity ... 24.10.49448                                       msi
+NI-PXIPF Error 24.5.0 for 6... 24.50.49292                                       msi
+NI-DAQmx Switch Core for 64... 24.50.49578                                       msi
+Microsoft .NET Core Host FX... 24.192.31915                                      msi
+Microsoft.iOS.Runtime.iossi... 18.1.9163.0                                       msi
+NI LabWindows/CVI 2020 Netw... 20.0.49152                                        msi
+NI Assistant Framework LabV... 24.10.49440                                       msi
+NI-VISA Enet Serial Passpor... 24.50.49310                                       msi
+NI PXI Platform Services .N... 24.50.49308                                       msi
+NI LabVIEW FPGA Advanced Se... 24.0.49290                                        msi
+NI-DAQmx STC for 64 Bit Win... 24.50.49588                                       msi
+Microsoft ASP.NET Core 6.0.... 6.0.36.24516                                      Programs
+NI LabWindows/CVI 2020 Netw... 20.0.49152                                        msi
+HEC-RAS 6.6                    6.6.0.0          C:\Program Files (x86)\HEC\HE... msi
+Microsoft .NET SDK 9.0.101 ... 9.1.124.57209                                     msi
+Microsoft.Maui.Resizetizer ... 9.0.0.0                                           msi
+Microsoft Windows Desktop T... 72.0.23378                                        msi
+NI ModInst 24.3 (64-bit)       24.30.49256                                       msi
+NI IVI Compliance Package C... 22.50.49160                                       msi
+Java Auto Updater              2.8.431.10                                        msi
+NI LabVIEW 2024 (64-bit) Re... 24.10.49365                                       msi
+NI-DAQmx DAQ Assistant (64-... 24.50.49578                                       msi
+icecap_collection_x64          17.12.35410                                       msi
+NI Uninstaller 24.5.0          24.50.49246                                       msi
+NI-DAQmx Support for LabVIE... 24.50.49578                                       msi
+Microsoft .NET Core 3.1.32 ... 3.1.32.22566                                      Programs
+NI Search Shared 64-bit        24.30.49381                                       msi
+Microsoft .NET 9.0 Template... 36.8.32921                                        msi
+NI-DAQmx Common Digital 24.5.0 24.50.49588                                       msi
+NI RTSI UI Provider for 64 ... 24.50.49560                                       msi
+NI USI                         18.55.49152                                       msi
+NI Switch Executive Documen... 23.80.49182                                       msi
+NI LabVIEW Runtime 2019 SP1... 19.10.49152                                       msi
+Microsoft .NET Runtime - 9.... 72.0.23369                                        msi
+NI LabWindows/CVI 2020 Code... 20.0.49152                                        msi
+SDK ARM Redistributables       10.1.22621.3233                                   msi
+Windows SDK Desktop Headers... 10.1.22621.3233                                   msi
+NI Curl 24.5.0 (64-bit)        24.50.49189                                       msi
+NI MSI Properties 64-bit       24.50.49246                                       msi
+NI RTSI Cable Core Installe... 24.50.49560                                       msi
+NI PXI Platform Services C ... 24.50.49313                                       msi
+NI-488.2 64-bit Utilities 24.5 24.50.49290                                       msi
+NI Multisim LabVIEW Interop... 14.30.49153                                       msi
+NI LabWindows/CVI 2020 Data... 20.0.49152                                        msi
+NI LabVIEW 2024 Q1 Real-Tim... 24.10.49362                                       msi
+icecap_collectionresources     17.12.35410                                       msi
+NI LabVIEW Runtime 2024 Q3 ... 24.30.49386                                       msi
+NI System API Windows 64-bi... 24.50.49275                                       msi
+NI SSL LabVIEW 2024 Q3 Supp... 24.30.49348                                       msi
+Windows SDK DirectX x64 Remote 10.1.22621.3233                                   msi
+NI-VISA Remote Passport (64... 24.50.49310                                       msi
+NI-Sync API Support 24.3.0     24.30.49291                                       msi
+Microsoft.Android.Runtime.3... 35.0.7.0                                          msi
+Autodesk Civil 3D 2025 Priv... 13.7.145.0       C:\Program Files\Autodesk\Aut... msi
+ACAD Private                   25.0.58.0        C:\Program Files\Autodesk\Aut... msi
+AutoCAD 2025 - English         25.0.58.0        C:\Program Files\Autodesk\Aut... msi
+DiagnosticsHub_CollectionSe... 17.12.35318                                       msi
+NI System State Publisher (... 24.30.49382                                       msi
+NI LabVIEW 2019 Run-Time En... 19.0.49152                                        msi
+Autodesk CER                   7.0.1.610                                         msi
+Microsoft ASP.NET Core 3.1.... 3.1.32.22566                                      Programs
+Microsoft Visual C++ 2012 R... 11.0.61030.0                                      Programs
+Microsoft ASP.NET Core 8.0.... 8.0.11.24521                                      Programs
+Microsoft .NET 6.0.36 - Win... 6.0.36.24516                                      Programs
+Microsoft Visual C++ 2015-2... 14.42.34433.0                                     Programs
+Windows Software Developmen... 8.100.26936                                       Programs
+Respondus LockDown Browser ... 2.00.0000                                         Programs
+Dassault Systèmes - VBA 7.1    1.0.0.0                                           Programs
+Microsoft Visual C++ 2013 R... 12.0.30501.0                                      Programs
