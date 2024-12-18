@@ -7,7 +7,7 @@ VS2022 installs about 35GB of Stuff which are mostly noise, but it is required f
 Process as Follows:
 1) Create a New Project in VSCODE!!!! for RESTAPIS from command line which creates a weather API. Dont Touch that for now as its helpful.
 2) THE VSCODE Project for this will create a Program.cs for Weather App, and a Weather Controller under ./Controllers/. Do not touch them for now. They dont hurt, and add the SWAGGER tools you need.
-3) Install REST.Client in VSCODE, and Start Visual Studio with Weather.Controller.
+3) Install REST.Client in VSCODE, and Start Visual Studio with Weather.Controller. [Both VSCODE and VS2022 SHOULD BE RUNNING WITH VSCODE NOW THE CLIENT] [VS THE SERVER]
 4) Create Weather.http in VSCODE and Try Gets from weather. GET http://localhost/yourweather/api/location. This should work. Now you know you have a working api.
 5) Install Dapper
 6) Install MS Entity Framework, Design, Tools, Relational.
