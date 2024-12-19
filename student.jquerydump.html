@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Data from REST API</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Student Data</h1>
+    <pre id="student-data"></pre>
+
+    <script>
+        $(document).ready(function() {
+            $.ajax({
+                url: 'http://localhost:8080/api/Student',
+                type: 'GET',
+                success: function(data) {
+                    $('#student-data').text(JSON.stringify(data, null, 2));
+                },
+                error: function(error) {
+                    console.log('Error:', error);
+                    $('#student-data').text('An error occurred while fetching data.');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

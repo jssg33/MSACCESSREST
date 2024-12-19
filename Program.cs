@@ -9,7 +9,14 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-
+app.UseCors(builder =>
+        builder
+        .WithOrigins("http://10.173.81.96", "*", "http://localhost:8080", "https://localhost:8443", "https://class.usc547team4.info:8080", "https://class.usc547team4.info:8443")
+        .AllowAnyMethod()
+        .AllowAnyHeader()
+        .AllowCredentials()
+         .WithExposedHeaders("X-total-count"));
+            
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -26,5 +33,4 @@ app.MapControllers();
 app.MapStudentEndpoints();
 
 app.MapStudentAttendanceEndpoints();
-
 app.Run();

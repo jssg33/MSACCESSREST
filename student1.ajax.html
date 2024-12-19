@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Data from REST API</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Student Data</h1>
+    <pre id="student-data"></pre>
+    <pre id="student-data2"></pre>
+    <pre id="student-data3"></pre>
+    <pre id="student-data4"></pre>
+    <pre id="student-data5"></pre>
+    <pre id="student-data6"></pre>
+
+    <script>
+        $(document).ready(function() {
+            $.ajax({
+                url: 'http://localhost:8080/api/Student',
+		crossdomain: true,
+                type: 'GET',
+                success: function(data) {
+                    $('#student-data').text(JSON.stringify(data, null, 2));
+                },
+                error: function(xhr) {
+                    console.log('Error:', xhr);
+                    $('#student-data').text('CORS Error1: ' + xhr.responseText);
+                }
+            });
+        });
+   $(document).ready(function() {
+            $.ajax({
+                url: 'https://localhost:8443/swagger/v1/swagger.json',
+                crossdomain: true,
+		type: 'GET',
+                success: function(data) {
+                    $('#student-data2').text(JSON.stringify(data, null, 2));
+                },
+                error: function(xhr) {
+                    console.log('Error:', xhr);
+                    $('#student-data2').text('CORS Error2: ' + xhr.responseText);
+                }
+            });
+        });
+        $(document).ready(function() {
+            $.ajax({
+                url: 'https://10.173.81.96:8080/api/Student',
+                type: 'GET',
+                success: function(data) {
+                    $('#student-data3').text(JSON.stringify(data, null, 2));
+                },
+                error: function(xhr) {
+                    console.log('Error:', xhr);
+                    $('#student-data3').text('CORS Error3: ' + xhr.responseText);
+                }
+            });
+        });
+   $(document).ready(function() {
+            $.ajax({
+                url: 'https://10.173.81.96:8080/swagger/v1/swagger.json',
+                type: 'GET',
+                success: function(data) {
+                    $('#student-data4').text(JSON.stringify(data, null, 2));
+                },
+                error: function(xhr) {
+                    console.log('Error:', xhr);
+                    $('#student-data4').text('CORS Error4: ' + xhr.responseText);
+                }
+            });
+        });        $(document).ready(function() {
+            $.ajax({
+                url: 'https://10.173.81.96:8443/api/Student',
+                type: 'GET',
+                success: function(data) {
+                    $('#student-data5').text(JSON.stringify(data, null, 2));
+                },
+                error: function(xhr) {
+                    console.log('Error:', xhr);
+                    $('#student-data5').text('CORS Error5: ' + xhr.responseText);
+                }
+            });
+        });
+   $(document).ready(function() {
+            $.ajax({
+                url: 'https://10.173.81.96:8443/swagger/v1/swagger.json',
+                type: 'GET',
+                success: function(data) {
+                    $('#student-data6').text(JSON.stringify(data, null, 2));
+                },
+                error: function(xhr) {
+                    console.log('Error:', xhr);
+                    $('#student-data6').text('CORS Error6: ' + xhr.responseText);
+                }
+            });
+        });
+    </script>
+</body>
+</html>

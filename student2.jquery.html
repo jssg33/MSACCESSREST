@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Data from REST API</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body onload="getjson()">
+</body>
+
+<script>
+
+function getjson()
+{
+	alert("gettingjson");
+	$.get( "http://localhost:8080/swagger/v1/swagger.json", function( data ) {
+	  alert( "Data Loaded: " + data );
+	});
+$.get( "http://localhost:8080/swagger/v1/swagger.json", function( data ) {
+  console.log( typeof data ); // string
+  console.log( data ); // HTML content of the jQuery.ajax page
+});
+$.get( "http://localhost:8080/api/Student", function( data ) {
+  console.log( typeof data ); // string
+  console.log( data ); // HTML content of the jQuery.ajax page
+});
+}
+
+</script>
+</html>
