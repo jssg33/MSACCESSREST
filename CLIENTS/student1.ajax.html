@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Data from REST API</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Student Data</h1>
+    <pre id="student-data"></pre>
+    <pre id="student-data2"></pre>
+    <script>
+        $(document).ready(function() {
+            $.ajax({
+                url: 'http://localhost:8080/api/Student',
+		crossdomain: true,
+                type: 'GET',
+                success: function(data) {
+                    $('#student-data').text(JSON.stringify(data, null, 2));
+                },
+                error: function(xhr) {
+                    console.log('Error:', xhr);
+                    $('#student-data').text('CORS Error: ' + xhr.responseText);
+                }
+            });
+        });
+   $(document).ready(function() {
+            $.ajax({
+                url: 'http://localhost:8080/swagger/v1/swagger.json',
+                crossdomain: true,
+		type: 'GET',
+                success: function(data) {
+                    $('#student-data2').text(JSON.stringify(data, null, 2));
+                },
+                error: function(xhr) {
+                    console.log('Error:', xhr);
+                    $('#student-data2').text('CORS Error: ' + xhr.responseText);
+                }
+            });
+        });
+        $(document).ready(function() {
+            $.ajax({
+                url: 'https://localhost:8443/api/Student',
+                type: 'GET',
+                success: function(data) {
+                    $('#student-data').text(JSON.stringify(data, null, 2));
+                },
+                error: function(xhr) {
+                    console.log('Error:', xhr);
+                    $('#student-data').text('CORS Error: ' + xhr.responseText);
+                }
+            });
+        });
+   $(document).ready(function() {
+            $.ajax({
+                url: 'https://localhost:8443/swagger/v1/swagger.json',
+                type: 'GET',
+                success: function(data) {
+                    $('#student-data2').text(JSON.stringify(data, null, 2));
+                },
+                error: function(xhr) {
+                    console.log('Error:', xhr);
+                    $('#student-data2').text('CORS Error: ' + xhr.responseText);
+                }
+            });
+        });
+    </script>
+</body>
+</html>
