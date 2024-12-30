@@ -1,27 +1,39 @@
-﻿using Microsoft.AspNetCore.Http.HttpResults;
+﻿using System;
+using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OpenApi;
+using Microsoft.Identity.Client;
+using MySqlX.XDevAPI.Common;
 using WEBAPI.MODELSACCESS;
 using static Dapper.SqlMapper;
+using static Org.BouncyCastle.Asn1.Cmp.Challenge;
 using static Slapper.AutoMapper;
 namespace WEBAPI.Controllers;
+using Microsoft.EntityFrameworkCore;
+using System.Linq;
+using EntityFrameworkCore.Jet;
+using Microsoft.AspNetCore.Http;
+using System.Data.Entity;
 
 public static class StudentEndpoints
 {
-    public static async void MapStudentEndpoints (this IEndpointRouteBuilder routes)
+    public static async void MapStudentEndpoints(this IEndpointRouteBuilder routes)
     {
         var group = routes.MapGroup("/api/Student").WithTags(nameof(Student));
 
+        //[HttpGet]
         group.MapGet("/", () =>
         {
             using (var context = new ModelContext())
             {
                 return context.Students.ToList();
             }
-            
+
         })
         .WithName("GetAllStudents")
         .WithOpenApi();
 
+        //[HttpGet]
         group.MapGet("/{id}", (int id) =>
         {
             using (var context = new ModelContext())
@@ -32,37 +44,54 @@ public static class StudentEndpoints
         .WithName("GetStudentById")
         .WithOpenApi();
 
+        //[HttpPut]
         group.MapPut("/{id}", (int id, Student input) =>
         {
             using (var context = new ModelContext())
             {
-                //context.Students.Add(std);
-                //Student[] somestudents = context.Students.Where(m => m.Id == id).ToArray();
-                //context.Students.Attach(somestudents[0]);
+                Student[] somestudent = context.Students.Where(m => m.Id == id).ToArray();
+                context.Students.Attach(somestudent[0]);
                 //somestudents[0] = input;
-                //context.SaveChanges();
-                Student result = new Student();
-                result = input;
+                //Student result = new Student();
+                //somestudent[0].Id = input.Id;
+                somestudent[0].LastName = input.LastName;
+                somestudent[0].FirstName = input.FirstName;
+                somestudent[0].EMailAddress = input.EMailAddress;
+                //context.Entry(somestudent[0]).State = EntityState.Modified;
+                //result.LastName = "Smith";
+                //result.FirstName = "Kyle";
                 context.SaveChanges();
-                //return TypedResults.Created($"/api/Student/{input.Id}", input);
-                //return id ? TypedResults.Ok() : TypedResults.NotFound();
+                //await context.SaveChangesAsync();
+                return TypedResults.Accepted("Updated ID:" + input.Id);
             }
-            
+
 
         })
         .WithName("UpdateStudent")
         .WithOpenApi();
-
-        group.MapPost("/", async (Student input) =>
+            
+        group.MapPost("/", (Student input) =>
         {
-            //Add Record
             using (var context = new ModelContext())
             {
+                //Student somestudent = new Student();
+                //context.Students.Attach(somestudent);
+                //somestudent.FirstName = input.FirstName;
+                //somestudent.LastName = input.LastName;
+                //somestudent.EMailAddress = input.EMailAddress;
+                //Random rand = new Random();
+                //int randomIntInRange = rand.Next(0, 101);
+                //somestudent.Id = randomIntInRange;
                 context.Students.Add(input);
                 context.Students.Attach(input);
-                await context.SaveChangesAsync();
-                return TypedResults.Created($"/api/Store/{input.Id}", input);
-            }
+                             
+                //input.Id = randomIntInRange;
+                context.Entry(input).State = context.Modified;
+                context.SaveChanges();
+                //await context.SaveChangesAsync();
+                return TypedResults.Created("Created ID:" + input.Id);
+                }
+            
         })
         .WithName("CreateStudent")
         .WithOpenApi();
@@ -82,6 +111,9 @@ public static class StudentEndpoints
         .WithName("DeleteStudent")
         .WithOpenApi();
     }
+
+    /// STUDENT ATTENDANCE >
+    /// 
 	public static void MapStudentAttendanceEndpoints (this IEndpointRouteBuilder routes)
     {
         var group = routes.MapGroup("/api/StudentAttendance").WithTags(nameof(StudentAttendance));
@@ -120,5 +152,20 @@ public static class StudentEndpoints
         })
         .WithName("DeleteStudentAttendance")
         .WithOpenApi();
+        
+        /*[HttpPost]
+            async Task<ActionResult<Student>> PostStudent(Student input)
+            {
+                using (var context = new ModelContext())
+                {
+                context.Students.Add(input);
+                await context.SaveChangesAsync();
+                }
+                return input;
+                //return CreatedAtAction(nameof(GetStudent), new { id = student.Id }, student);
+            }
+
+            [EnableCors("Policy1")]
+            [HttpPost]*/
     }
 }
