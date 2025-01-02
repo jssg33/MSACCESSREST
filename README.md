@@ -1,26 +1,29 @@
 # MSACCESSREST
-Building a REST API with MSSACCESS, Dapper, and EntityFrameWork.jet
+Building a REST API with MSSACCESS, and EntityFrameWork.jet
 
-We have a restricted lab which has VSCODE installed, and VisualStudio with no Databases.
-VS2022 installs about 35GB of Stuff which are mostly noise, but it is required for some things. This demonstration requires MSACCESS TO BE INSTALLED as both VSCODE, and VisualStudio include the DBMS Drivers for Both MSSQL, and MSACCESS.
+We have a restricted lab which has VSCODE installed, and VisualStudio with no Databases other than MSAccess locally. This builds a REST API to a local workstation.
 
 Process as Follows:
 1) Create a New Project in VSCODE!!!! for RESTAPIS from command line which creates a weather API. Dont Touch that for now as its helpful.
 2) THE VSCODE Project for this will create a Program.cs for Weather App, and a Weather Controller under ./Controllers/. Do not touch them for now. They dont hurt, and add the SWAGGER tools you need.
 3) Install REST.Client in VSCODE, and Start Visual Studio with Weather.Controller. [Both VSCODE and VS2022 SHOULD BE RUNNING WITH VSCODE NOW THE CLIENT] [VS THE SERVER]
 4) Create Weather.http in VSCODE and Try Gets from weather. GET http://localhost/yourweather/api/location. This should work. Now you know you have a working api.
-5) Install Dapper
-6) Install MS Entity Framework, Design, Tools, Relational.
-7) Install EntityFramework.Jet
-8) Use MSAccess Sample DB for Students which saves you a LOT OF TIME....
-9) Create a Connection to your MSACCESS Database in VisualStudio via DBMapper tool. When you select this DB this should give you a working connection string like the one below. This can be moved to your AppSettings.JSON but
+5) Install MS Entity Framework, Design, Tools, Relational.
+6) Removed
+7) Install EntityFramework.Jet as described here..... https://github.com/CirrusRedOrg/EntityFrameworkCore.Jet
+       EntityFrameworkCore.Jet
+       EntityFrameworkCore.Jet.Data
+       EntityFrameworkCore.Jet.Odbc
+       EntityFrameworkCore.Jet.OleDb
+9) Use MSAccess Sample DB for Students which saves you a LOT OF TIME.... and delete everything not related to the student data as the indexes and forms are restrictive initially.
+10) Create a Connection to your MSACCESS Database in VisualStudio via DBMapper tool. When you select this DB this should give you a working connection string like the one below. This can be moved to your AppSettings.JSON but
     for speed purposes do something like this.
 10)Let Jet Model the Database via Reverse Engineering and output to MSACCESSMODELS using the -o statement.
-dotnet ef dbcontext scaffold "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\stritzj\Documents\Database2.accdb" EntityFrameworkCore.Jet -o MODELSACCESS 
+dotnet ef dbcontext scaffold "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\yourname\Documents\Database2.accdb" EntityFrameworkCore.Jet -o MODELSACCESS 
 11) Create a New Controller (WITHOUT ENTITY FRAMEWORK!!!! AS JET DOESNT WORK FOR SOMEREASON) But you will need a Controller for MSSACCESSCONTROLLER.CS. It will ask you to select the Model you want to add to the controller.
 You are going to go through this process for each table you need a REST API.
-12) Copy the WeatherController.cs to StudentController.cs, and GuardianController.cs
-13) Delete Everything out of Weather, and Guardian.
+12) Copy the WeatherController.cs and StudentController.cs, to controllers directory.
+13) REMOVED
 14) Use the Samples as attached... and WALA working product.
 15) Snapshot of Installed Versions, and Features included in ROOT of this project.
 
